@@ -1,0 +1,126 @@
+Conversation with #bricolabs at Dom 10 Mar 2013 18:09:34 BRT on efeefe@irc.freenode.org (irc)
+(18:09:34) #bricolabs: O tópico do #bricolabs é: Bricolabs welcomes you | www.bricolabs.net
+(18:09:59) efeefe: aloo
+(18:22:21) paulav: hello felipe
+(18:27:57) efeefe: hola paulav
+(18:28:07) paulav: hola!
+(18:30:34) efeefe: que tal?
+(18:30:48) efeefe: estas en colombia por estes dias?
+(18:31:25) paulav: Felipe, I do not think I will be able to come to Helsinki. I wanted to propose a presentation. But my life is messy these days adapting myself to France with my kids, it is kind of weird the time it is taking me.
+(18:31:51) paulav: Estoy viviendo en Paris desde hace un año.
+(18:32:31) efeefe: creo que sea natural
+(18:32:41) efeefe: cuantos hijos tienes
+(18:32:42) efeefe: ?
+(18:32:49) paulav: dos.
+(18:33:34) paulav: 18 años empezando la universidad y 13 años adaptándose al sistema escolar y al idioma!
+(18:33:55) paulav: ya hablan francés pero es difícil el nivel de estudios.
+(18:34:05) paulav: el ritmo y la gramática muy estricta.
+(18:35:08) paulav: Me gustaría mucho ir al Pixelazo, hace mucho tiempo.
+(18:35:11) brv [~bru@187.89.7.191] entrou na sala.
+(18:35:50) paulav: Está difícil cuadrar las fechas.
+(18:36:49) efeefe: bueno, dime despues si puedes venir, estaria bien llevar más sur-americanxs ;)
+(18:36:51) efeefe: ei brv
+(18:37:20) brv: hola
+(18:38:44) paulav: cuántos días son?
+(18:38:53) paulav: hola brv
+(18:39:24) efeefe: el festival tiene dos dias en helsinki, y luego dos dias en Naissari, una isla cercana a Tallín
+(18:39:32) efeefe: vamos brv?
+(18:39:40) efeefe: jerneja: you there?
+(18:40:35) jerneja: hi, just cam back-doggy had needs
+(18:40:40) jerneja: hi everyone
+(18:43:15) efeefe: Lepo pozdravljeni!
+(18:44:08) efeefe: so
+(18:44:15) efeefe: conference is here: http://piratepad.net/bripixconf
+(18:44:19) lalenia: Title: PiratePad: bripixconf (at piratepad.net)
+(18:44:27) efeefe: it's looking too endogenous for my taste
+(18:44:32) jerneja: hehe, obrigado a mesma
+(18:47:19) efeefe: and here the evolving plans for the remote session: http://piratepad.net/bripixremote
+(18:47:21) lalenia: Title: PiratePad: bripixremote (at piratepad.net)
+(18:47:50) jerneja:  will there be an open space - or will there be standard panel presentation?
+(18:49:47) jerneja: i was thinking in between would be good to break somehow, to use that day for an interaction as well. also taking the question of opening a self reflective question of the network
+(18:51:27) efeefe: what do you call an interaction?
+(18:51:39) efeefe: we can demand what we need in regardsto space etc.
+(18:51:54) efeefe: for the 17th of may we're supposed to have an audience in helsinki
+(18:53:18) jerneja: i mena with everyone present - to have working questions on the website of brico, on the network, on generating content about the perception of brico by f2f meeting, I was not in wintercamp, so I just picture more of that kind of environment as part of the panel...but maybe that is just coming in later at the camp....
+(18:54:16) jerneja: and yes, an introduction on the history of bricolabs might be good. that I suppose will be you somehow at the beginning
+(18:54:38) paulav: Do Jean-Noel will mention or speak about waterbricolabs?
+(18:57:10) paulav: I have a video we made with one of his inventions, the construction of it, but never finish or test it. It was a crazy idea to produce energy using the movement of a tree.
+(18:57:15) brv: efeefe: rede ruim
+(18:57:20) brv: i'm back
+(18:58:03) efeefe: jerneja: I think that's more fit to the second part of pixelache, on the island
+(18:58:10) efeefe: we can work on some things
+(18:58:21) efeefe: but for the 17th, we have to take into account the audience ;)
+(18:58:28) brv: let's go :)
+(18:58:49) efeefe: paulav: no word from JNM except him saying he will send things for the exhibition
+(18:59:13) efeefe: paulav: the video could be part of it, isn't it?
+(18:59:33) efeefe: brv: are you sending the bamboo antenna?
+(18:59:50) paulav: I have to edit that video.
+(18:59:52) jerneja: i think is good to show some visual footage. yes
+(19:00:25) brv: efeefe: yep
+(19:00:33) paulav: That video was made during a festival we organized in France last summer.
+(19:00:49) brv: but it seems expensive to bring it back
+(19:01:00) paulav: It was very interesting all that happened during the festival.
+(19:01:13) paulav: I filmed everything from the preparation until the end.
+(19:01:55) jerneja: paulav just a thought this could also be part of the exhibition actually.
+(19:02:14) efeefe: brv: how big is it?
+(19:03:07) efeefe: paulav: jerneja: indeed, we can show some random raw footage accompanied by a poster explaining what it is (and its status of work in progress)
+(19:03:09) paulav: The jean-noel invention could be a very short video. I can cut it.
+(19:03:40) paulav: jerneja: ok. That is for the exhibition.
+(19:03:44) efeefe: but it's good if you discuss that with him beforehand. 
+(19:04:06) jerneja: nice. also for documentation for brico website
+(19:05:02) paulav: I am not very active with bricolabs since this conversations for helsinki started. I have to read to see how it is organized until now.
+(19:05:33) jerneja: paulav: since you said you won't be able to attend, if there is anything you wish to include as presentation. i could help - can be your voice :)
+(19:06:21) paulav: efeefe: yes, of course. I have to ask him. Because this invention did not arrive to be finished
+(19:06:41) brv: efeefe: it's 150cm long, 10cm wide
+(19:06:41) brv: 10x10cm
+(19:07:14) efeefe: putz, 1,5m eh fod
+(19:07:37) paulav: There is indeed a project started some years ago that I am still in… and was the reason for me to be at bricolabs list.
+(19:07:49) efeefe: which one?
+(19:07:53) paulav: It helped me a lot to make research about water.
+(19:08:03) jerneja: i was thinking also recordings - podcast sent from bricos could be included - those who are not on remote connection or physically able to attend
+(19:09:08) paulav: Now the project has advanced a lot and we are in a phase of building, with very clear ideas of what is better for the community.
+(19:09:30) paulav: efeefe: is http://bibliotecamariamulatalectora.tumblr.com/
+(19:09:32) lalenia: Title: Construcción del Centro Cultural Mariamulata (at bibliotecamariamulatalectora.tumblr.com)
+(19:09:55) paulav: is funny. When I think how cold is life in Finland, and how hot is in the caribean!
+(19:10:07) paulav: I like the idea of the contrast
+(19:11:28) brv: efeefe: actually fedex gave a quote of 140 reais to send
+(19:11:45) brv: and 500 to send it back from finland...
+(19:11:52) paulav: I was very interested, I am still, in Jean-No's washing machines. And all the process in Vanessa home
+(19:12:09) efeefe: maybe we should ask about the return price to the pixelache people
+(19:12:19) efeefe: they may know of more affordable options
+(19:12:41) efeefe: paulav: Vanessa wanted to paritcipate remotely
+(19:14:52) paulav: I think it could be a nice thing to talk about 'Red Caribe'. This idea, that is not quiet running but is at it's beginings.
+(19:14:52) brv: i guess
+(19:15:18) b3free [~b3free@2001:4b98:dc0:41:216:3eff:fe52:a6f0] entrou na sala.
+(19:15:56) efeefe: ei vince!
+(19:16:14) efeefe: paulav: what is it of red caribe?
+(19:16:15) brv: do you know who from pixelache could help with that?
+(19:16:31) efeefe: I'll ask Nathalie about that
+(19:17:09) efeefe: brv: actually, can you put a paragraph or so about the antenna here? http://piratepad.net/bricolabexhibit
+(19:17:25) efeefe: and end it asking about that...
+(19:17:53) efeefe: I'll skype Nathalie about a number of things this week, will add that to the items to be discussed
+(19:18:18) lalenia: Title: PiratePad: bricolabexhibit (at piratepad.net)
+(19:18:36) brv: ok
+(19:18:38) brv: saluti vince
+(19:19:44) jerneja: sorry i have to be leave this time, but what i propose is if anyone wishes to record any presentation in voice or video mode we can show it at the conference
+(19:21:17) paulav: Red Caribe is an idea mentioned long time ago, socialized in LabSurLab , this idea think about the isles in the caribean (martinique, others perhaps), colombian coast, panamá, venezuela,… First in Colombia, we want to activate and link cultural, ecological , artistic residencies , located in that region
+(19:22:03) efeefe: jerneja: we could start every panel with a remote statement
+(19:22:07) efeefe: or something like that
+(19:23:43) efeefe: to reinforce the message
+(19:24:24) jerneja: yes. that would be interesting also to break the panels
+(19:24:38) jerneja: i like better reinforce than break. yep
+(19:25:44) jerneja: sorry to leave, but wil leave the computer on to read later (sigh, monday awaits)
+(19:26:13) efeefe: ok
+(19:26:27) efeefe: I'm leaving for 5 minutes as well , back soon
+(19:32:37) paulav: need to make to eat here
+(19:53:31) brv saiu da sala (quit: Ping timeout: 248 seconds).
+(19:53:43) brv [~bru@187.89.7.191] entrou na sala.
+(19:56:46) b3free saiu da sala (quit: Ping timeout: 276 seconds).
+(20:09:54) efeefe: hey all
+(20:10:08) efeefe: anyway, let's keep on putting ideas there - http://piratepad.net/bripixconf
+(20:10:11) lalenia: Title: PiratePad: bripixconf (at piratepad.net)
+(20:10:26) efeefe: I would like to have suggestions of other people whomay be relevant for discussions
+(20:10:40) efeefe: local people and people who will be in pixelache for other reasons as well
+(20:10:55) efeefe: let's keep that open for now
+(20:59:52) paulav saiu da sala (quit: Quit: paulav).
+(21:20:14) The account has disconnected and you are no longer in this chat. You will automatically rejoin the chat when the account reconnects.

@@ -1,0 +1,513 @@
+Conversation with #bricolabs at Qua 13 Mar 2013 16:55:40 BRT on efeefe@irc.freenode.org (irc)
+(16:55:41) #bricolabs: O tópico do #bricolabs é: Bricolabs welcomes you | www.bricolabs.net
+(17:04:30) TM__ [52b56bbe@gateway/web/freenode/ip.82.181.107.190] entrou na sala.
+(17:05:19) TM___ [52b56bbe@gateway/web/freenode/ip.82.181.107.190] entrou na sala.
+(17:05:55) TM___: heya, how are you all?
+(17:08:27) TM__ saiu da sala (quit: Client Quit).
+(17:08:58) TM___ saiu da sala (quit: Client Quit).
+(17:09:24) tapmak [52b56bbe@gateway/web/freenode/ip.82.181.107.190] entrou na sala.
+(17:11:29) efeefe: alou
+(17:13:26) tapmak: alou
+(17:13:51) tapmak: Kasia sends greets she is busy biohacking at Art Catalyst
+(17:16:56) tapmak: is it a bit quiet here or is my client not on-line?
+(17:17:44) hybrid [~R3n4t0@nebulosa.ifsc.usp.br] entrou na sala.
+(17:22:12) jerneja [563a517d@gateway/web/freenode/ip.86.58.81.125] entrou na sala.
+(17:22:20) efeefe: still quiet
+(17:22:44) efeefe: I'll get a big coffee mug and return soon
+(17:22:56) tapmak: ok will do the same
+(17:24:05) gj: 'veče
+(17:27:24) jerneja: hi!
+(17:28:10) efeefe: ok, back
+(17:28:28) tapmak: me too, hola!
+(17:28:40) efeefe: it may sound odd, but it's the second week in a row that I see Tapio's sister just before starting our meeting
+(17:28:46) efeefe: in two different cities in Brazil
+(17:29:06) tapmak: I wish I could say the same. :)
+(17:29:39) efeefe: well, weather-wise I don't think she agrees with you ;)
+(17:29:48) tapmak: I understand you will also meet two of her friends soon. Warm greetings!
+(17:29:58) tapmak: (I meant, I wish I was there)
+(17:33:29) jerneja: ah. maybe an interesting news for some. the next share conference will happen in july in rijeka on the famous galeb boat - the one of Tito. programme wise i think is still open for proposals. recalling bricoboat
+(17:34:21) efeefe: yeah, Kruno just mentioned it today - and also that he met you
+(17:34:31) efeefe: I invited him to show up here later on
+(17:34:35) gj: hi guys
+(17:34:44) efeefe: ah, eh tu gj!
+(17:34:48) gj: its me :)
+(17:34:51) efeefe: gentlejunk ;)
+(17:35:13) jerneja: yep, we live not that far from each other, croatia is bordering slovenia. so we managed to see couple of times this past year.
+(17:35:14) tapmak: Jerneja: can you share URL for the event?
+(17:35:15) gj: yes, interesting thing how everythign fits in sooner or later
+(17:35:38) jerneja: http://www.shareconference.net/en/news/share-boat-camp-july-rijeka-croatia
+(17:35:47) lalenia: <http://ln-s.net/+p5R> (at www.shareconference.net)
+(17:35:58) jerneja: lalenia where are you?ahhh there you are
+(17:35:59) lalenia: jerneja: Error: "where" is not a valid command.
+(17:36:07) tapmak: efe - don't show this to my sister: http://tinyurl.com/bl8oplp
+(17:36:10) lalenia: Title: Home - Ilmatieteen laitos (at tinyurl.com)
+(17:36:34) efeefe: tapmak: did you say "don't" to make sure I will?
+(17:36:35) efeefe: :D
+(17:36:51) efeefe: wow, I'm getting scared of it myself
+(17:36:54) tapmak: :D Go figure
+(17:38:06) gj: guys , also want to share link to old bricoboat idea that was connected to titos galeb: http://gentlejunk.net/projects/tiki-index.php?page=ARK
+(17:38:13) lalenia: <http://ln-s.net/+p5V> (at gentlejunk.net)
+(17:38:43) tapmak: Looks likea a float without a pope
+(17:38:46) efeefe: "Paul, we need a boat!" is an episode of brazilian media activism in Europe
+(17:39:28) gj: :))
+(17:39:40) efeefe: anyway, news from Pixelache
+(17:41:14) vx [be942723@gateway/web/freenode/ip.190.148.39.35] entrou na sala.
+(17:41:18) efeefe: we're on conversations with another event in Europe who's also inviting Camilo from Colombia. It looks like they will be able to pay for his travel expenses, what could mean we would be able to bring another latin-american. Vlax from Mexico sent a proposal, that would be my first choice.
+(17:41:27) vx: hey everyone!
+(17:41:30) efeefe: ei vicky!
+(17:42:16) gj: hi vicky! long time
+(17:42:47) vx: yep - useful for me to get an up-to-date list of who's physically going to be there and who not.   am in the middle of trying to get a funding application to arts council england to subsidise me being in brasil - it includes mention of pixelache....so any relevant info is really helpful
+(17:43:01) vx: at the moment because the turnaround is tight.
+(17:43:14) efeefe: also, Nathalie told me about the venue they're looking for the conference. one of those finnish names I can't possibly memorize so quick, one sec
+(17:43:19) vx: have some interested groups in uk and other countries who definitely want to join us remotely as well
+(17:43:29) efeefe: here: Lintulahdenkuja
+(17:43:33) efeefe: Lintulahdenkujan
+(17:44:22) tapmak: this is a street near Suvilahti, is there any other name attached?
+(17:44:25) vx: hey gj!!!!!
+(17:45:35) gj: :) ho wis it vix? long time no see. just finished 2 year project taking all of my time, so maybe more time now to join adventures
+(17:45:51) efeefe: hm, nathalie wrote "Lintulahdenkujan auditorium"
+(17:47:21) tapmak: there are some office buildings there, quite industrial w/o nostalgia
+(17:47:52) efeefe: http://goo.gl/maps/jfmui
+(17:47:56) lalenia: Title: Lintulahdenkuja 4, 00530 Helsinki, Finland - Google Maps (at goo.gl)
+(17:48:04) efeefe: maybe it's that one
+(17:48:20) tapmak: that's Stakes, health organization, probably their auditorium
+(17:48:47) efeefe: I'm not sure that's the address, just googling
+(17:48:54) efeefe: I'll ask Nathalie about it
+(17:48:55) vx: hey gj!    glad to see you have re-emerged.      have been very nomadic in the last couple of years.  in guatemala at the moment semi working on network things, another masters, loads of things...a bit dizzying sometimes, and looking forward to being involved in the pixeladhe project to re-engage with briconess
+(17:49:37) efeefe: that's for the panels etc. 
+(17:49:59) efeefe: she also said that if we need smaller rooms or more informal settings we can also use this place: http://happi.nettiareena.fi/jarjesta-hapessa/talon-tilat/
+(17:50:06) efeefe: which is already booked for pixelache
+(17:50:07) lalenia: <http://ln-s.net/+p5l> (at happi.nettiareena.fi)
+(17:50:08) tapmak: yup, near other spaces. About 500m
+(17:50:56) tapmak: Happi is city youth office's space
+(17:51:19) efeefe: in discussing the conference (and very appropriate for my feeling that it was becoming too endogenous), she said Pixelache wants to suggest a panel on open development
+(17:51:22) tapmak: probably the only thing this means for us is that while there, things are near each other yet not in the same space
+(17:52:14) tapmak: With OK festival and all that very popular here, would make sense.
+(17:52:39) efeefe: I think we should decide whether the remote sessions will happen in a time slot in the main room, or instead happen simultaneously, in this other place
+(17:52:58) efeefe: tapmak: what's OK festival?
+(17:53:24) tapmak: though a good question; open data and open knowledge is one thing, how open development, if not software... could be thought of?
+(17:53:56) efeefe: just one second, skimming through skype logs to recover notes
+(17:53:57) tapmak: Open Knowledge foundation event in Helsinki last autumn http://okfestival.org/
+(17:53:58) lalenia: Title: OKFestival (at okfestival.org)
+(17:54:07) tapmak: With Juha Huuskonen as one of the key facilitators
+(17:54:28) vx: just talking to some people in mexico who would like to participate and they are asking about timeslots
+(17:54:32) efeefe: ah!, sorry
+(17:54:51) efeefe: getting back, their suggestion: "Discussion / Panel / Gathering  on Open development with Bricolabbers, one person from Foreign Affairs  ministry, from Kepa (organisation that supports developmental  associations in FInland), Amrit Naresh (Rog), moderated by Armin Medosh."
+(17:55:12) vx: i dont know how you feel about this but it might be best to have 2 slots at different times so that asian and american participants can both be included....
+(17:55:14) efeefe: looks perfect to me, also better as Armin was an active member of brico-list a couple years back
+(17:55:59) efeefe: vx: we could actually have the panels and the remote sessions happen simultaneously
+(17:56:07) tapmak: To do remote participation in smaller break-out sessions could make more sense than remote participation feed into a bigger conf space?
+(17:56:18) tapmak: efe /simultaneity on that one
+(17:56:21) efeefe: maybe opening slots for remote discussion after panels
+(17:56:23) vx: i agree with tapmak......
+(17:56:39) vx: because i think different people will want to contribute in different ways....
+(17:56:59) vx: eg we have some artists, some hackers, some activists.
+(17:57:11) jerneja: i agree also for simultanous session.
+(17:57:36) efeefe: yeah
+(17:57:50) vx: it might help for us to identify popular thematics as a group as i can already see that quite a few network culture experts who are not currrently bricos wish to participate
+(17:58:02) efeefe: and also, not everyone is always in the mood for big auditoriums
+(17:58:21) vx: also if we have the simultaneous and themed sessions there will be less tendency to
+(17:58:30) tapmak: efeefe: open development here refers to the old school Development as in developing countries, and there is rep from ministry who talks from official side and Kepa, who is more grass roots.
+(17:58:42) vx: boredom as efeefe was mentioning in the piratepad notes
+(17:59:30) efeefe: indeed
+(17:59:45) efeefe: should we work a bit on the plans for that day now, then?
+(17:59:51) tapmak: Did you get an idea, Efe, what Nathalie meant by Open development? Is it one where different stakeholders are involved, or something to do with open access - need to understand what the proposed angle is.
+(18:00:01) efeefe: then later today we could discuss the exhibition briefly
+(18:00:52) efeefe: she mentioned r0g and Stephen Kovats
+(18:01:09) efeefe: they are working with south sudan, juba, open source city etc.
+(18:01:20) efeefe: there has been some discussion about it in brico-list
+(18:02:02) tapmak: ok; then the framework is more open data and open source, free sw and hw
+(18:02:15) efeefe: maybe it is a more traditional perspective on north/south and development, but if Armin is the moderator I think it can be worth it
+(18:02:41) jerneja: yes. excellent. will stephen be there too?
+(18:03:09) efeefe: also, we can offer the remote audience with live IRC in a screen to react to the panels
+(18:03:13) tapmak: and who from brico would be a good addition, and perhaps if needed, interventionist?
+(18:03:23) tapmak: efeefe: good point
+(18:03:32) efeefe: (what could become a little harsh, depending especially on the ministry person ;))
+(18:04:26) efeefe: I'm not sure whether Stephen will be there. Nathalie mentioned Goethe institut would be supporting it, but maybe that's for Amrit Naresh.
+(18:04:49) efeefe: I think that's a good addition for our programme
+(18:05:56) efeefe: then, getting back
+(18:06:00) jerneja: i need to write to him as for the reader.rob is not coming or submitting text to the reader
+(18:06:14) efeefe: so far, we have some ideas for panels etc.
+(18:06:30) efeefe: rob is too busy these days
+(18:06:55) efeefe: =D
+(18:07:48) efeefe: so, here: http://piratepad.net/bripixconf
+(18:07:51) lalenia: Title: PiratePad: bripixconf (at piratepad.net)
+(18:08:25) efeefe: deep resonant networking, smell of bricolabs, antidisciplinary collaboratrion, affectie geopolitics, open development (+) and the remote thing
+(18:09:02) tapmak: HONF and Common Room project examples would also bee good insertions to the open dev panel; if Ira is in town, she could participate?
+(18:09:15) efeefe: I was wondering whether the first two should be merged and seen as a more abstract intervention by John, followed by presentations of projets
+(18:09:29) efeefe: tapmak: we can suggest that, I think
+(18:09:45) vx: and what about Atteqa and some of the Pakistan participants?    it would be nice to have them involved
+(18:10:34) jerneja: Ira should be there.yes
+(18:11:08) efeefe: vx: perhaps we should come up with a list of people/places we'd like to join the remote sessions and send them an invitation
+(18:11:21) efeefe: and also a manual
+(18:11:30) efeefe: I'm still not sure about the mechanics of it all
+(18:11:48) vx: yep - happy to do that.     can i check that it's ok to invite some people who have shown interest in brico work but are not active in the network yet?
+(18:12:16) efeefe: vx: I think so
+(18:12:42) efeefe: and invite them for the reader too ;)
+(18:12:51) vx: one thing i was thinking was that brico panelists in helsinki should be there to give it some context which serves to create several platforms for discussion.  otherwise it could be a bit pointless...
+(18:13:02) vx: often in ircs it takes ages for people to get to the point.
+(18:13:30) vx: also helpful if we know who might be joining us remotely rather than the normal free for all that we sometimes get.......
+(18:13:48) efeefe: hm, I like free for all
+(18:13:58) tapmak: One or two certain discussants on-line + free for all?
+(18:13:59) efeefe: how would you propose to do that?
+(18:14:01) vx: would be nice to provide an intro and pictures of participants before the day.....to ensure we get straight to the point and can facilitate it well
+(18:14:41) vx: well - me too  - i love free for all - and i am sure we want to invite some element of that for sure!    but if we do have at least some aroma of who is going to be joining us it will probably help
+(18:14:57) vx: esp for newbies who
+(18:15:07) vx: don't know the work of specific hubs etc
+(18:15:22) tapmak: I think these wednesday ircs are are a case in point; the friday event is a public setting where there should be short and compact commentaries. No one will follow, in phsyical space, an irc on tangents.
+(18:15:38) vx: exactly
+(18:15:58) tapmak: unless we hire mimes to perform, but that might get us killed
+(18:16:34) vx: for me its also about giving people a chance to network.    what i have seen in these telepresence activities we have been doing for quite some time is that often we have of course technical problems, which is why we normally devolve to the ircs....
+(18:16:51) jerneja: i wonder if there is any moderation happening perhaps connected to some themes. maybe vicky you could set some especially if you know the background of people involved
+(18:17:47) vx: but what is productive is that simply a little skype wave - so, rob would say, you can see the whites of people's eyes.....really helps......these ongoing telepresence activities even when they have been quite rubbish have really assisted the birth of some great knowledge sharing and future partnerships
+(18:17:58) tapmak: vx: I proposed on the piratepad that there could be one session on "wetlabs" where there could be brief intros into marine/water based projects + discussion.
+(18:18:16) jerneja: just to know the focus a little bit and present it before hand, we could get also animation from the audience, anyone could join in with their mobile/comps
+(18:18:48) jerneja: or maybe I missed the point and there were things on the piratepad already.
+(18:18:55) vx: tapmak   that would be great....and agreed with jerneja that we should really be inviting the audience to join......it can actually create quite a buzz.
+(18:19:20) efeefe: perhaps we should document this discussion we're having: http://piratepad.net/bripixremote
+(18:19:22) lalenia: Title: PiratePad: bripixremote (at piratepad.net)
+(18:19:25) vx: when we did that at the tecnomagias convergence in brasil last year the room became quite a frenetic little lab of communications
+(18:20:02) vx: and people were even self organising into different nodes and translators all on the same forum...was a little crazy but good fun and lots of really active discussion ensued
+(18:20:12) efeefe: then there's this question of where the "audience" will be. sitting with their laptops in the big auditorium, or elsewhere?
+(18:20:33) jerneja: i already see it...and it's very good indeed for the reader later on as part of the documentation too
+(18:20:53) vx: btw - just one question posited from bruno vianna earlier today is will everything be in english or will there be opportunities for the speaking of other languages?
+(18:21:26) vx: agreed with jerneja - logs of the sessions will be really nice for the reader
+(18:22:24) gj: was looking at bricolabexhibit - may i propose : http://wiki.noborderculture.eu/doku.php/mal
+(18:22:26) lalenia: Title: mal [New Media Cross-Border Wiki] (at wiki.noborderculture.eu)
+(18:22:31) tapmak: yes. btw, I like Vicky's "frenetic little lab of communications" can we use it somehow to refer to our sessions?
+(18:22:42) efeefe: fllc
+(18:23:10) efeefe: we may call the remote sessions that way
+(18:23:45) jerneja: tapio you know the context, what is best for audience at pixelache, more remote sessions to choose from, or keeping one session...sprading it or not?
+(18:24:00) efeefe: gj: can I ask you to hold that thought for now? I think we should discuss the conference + remote for now, then we can talk exhibition
+(18:24:36) jerneja: i mean choices of chat rooms on IRC by topics in one or more rooms, getting confused. as in room/remote.
+(18:25:05) tapmak: think that when everyone is in the same room - dense presentations with good speakers / / then very participatory in small sessions with remote contributions
+(18:25:31) jaceee [~jhopkins@ucb-np2-181.colorado.edu] entrou na sala.
+(18:25:56) kiilo saiu da sala (quit: Quit: ciao).
+(18:26:00) jaceee: gah, sorry I'm late -- we had our time change this week and I did not factor that in'
+(18:26:01) tapmak: ok, if using irc, one chat room one topic room. Other than that it is utter chaos.
+(18:26:08) vx: i agreed with tapio -
+(18:26:22) jerneja: solved. great
+(18:26:26) jerneja: hello Joh
+(18:26:28) jerneja: John
+(18:26:30) jaceee: hej alll!
+(18:26:41) tapmak: Mr Hopkins!
+(18:26:55) efeefe: ho John!
+(18:27:02) efeefe: so, is it dense x participatory?
+(18:27:03) jaceee: just had a string of students to be meeting with...
+(18:28:04) efeefe: John - we're discussing here about the presential/remote mechanics
+(18:28:34) efeefe: vx, jerneja and tapmak - can you summarize the conversation so far?
+(18:28:43) efeefe: I'll leave for 53 seconds
+(18:28:54) tapmak: 53 seconds, takers?
+(18:29:02) vx: agreed with tapio about the one chat room one topic room BUT something i was thinking is that we could have a few roving bricos just in case there are relevant threads that can be applied into other rooms....there might be a moment of groundbreaking clarity and it might be helpful to refer some info across
+(18:29:24) vx: erm - one sec
+(18:29:35) jaceee: ahah
+(18:29:38) vx: http://piratepad.net/bripixconf
+(18:29:40) lalenia: Title: PiratePad: bripixconf (at piratepad.net)
+(18:30:01) vx: and we are discussing the logistics at the moment....and how to make things concise but also free in their briconess....
+(18:30:24) vx: thinking it will be a main brico panel and then several themed ircs going on simultaneously.
+(18:30:25) tapmak: And that in the main room, do mostly local programme with intensity, while in the breakout sessions, remote participation combined with faciltating local discussion rather than presentations. Did I get this right?
+(18:30:32) vx: wetlabs to be one themed discussion
+(18:30:41) jerneja: vx we would like you to be there too...
+(18:30:46) tapmak: by local programme meaning = ppl who are there
+(18:30:51) jaceee: mmmm, I'd agree with Tapio -- concentrating conversations is better, onto one channel... things can get thin with too many channels....
+(18:30:52) efeefe: and back
+(18:31:12) vx: and also to send invitations out to bricos and non bricos who have impled they would like to be involved - as a network incubator of sorts....
+(18:31:20) tapmak: Johne: one channel per one thematic physical space
+(18:31:27) vx: agreed with tapio
+(18:31:51) jaceee: yeah, so there will be a number of simultaneous spaces, then?
+(18:31:57) jaceee: physical ones?
+(18:32:09) jerneja: yes we received updates from nathalie on that
+(18:32:17) vx: jerneja would love to be there but the plan (all being well funding wise) is that i will stream in some groups in rio de janeiro....BUT if i dont get my funding for the residency i am applying for then i'll see you in helsinki!
+(18:32:43) jerneja: I know I know, just saying...hopeyour plan works out
+(18:33:32) jerneja: :)
+(18:33:56) vx: thanks!    me too!    but am slightly jealous of you all meeting up.....but that;s why i will do my best to make sure other brico enthusiasts get the chance to smell our briconess...as we have some potential great 'recruits'
+(18:34:05) efeefe: hm, getting a bit confused
+(18:34:40) efeefe: I think we should have one main programme in the big conference room. something along these lines: http://piratepad.net/bripixconf
+(18:34:42) lalenia: Title: PiratePad: bripixconf (at piratepad.net)
+(18:34:59) vx: agree with efeefe
+(18:35:08) efeefe: (actually, we should start making decisions, writinng a couple paragraphs on each panel, getting participant's bios)
+(18:35:27) efeefe: then, we can - if we want - use smaller rooms in another venue in Helsinki 
+(18:35:34) vx: happy to help with that
+(18:35:37) efeefe: or the main hall
+(18:35:51) efeefe: of this space: http://happi.nettiareena.fi/jarjesta-hapessa/talon-tilat/
+(18:35:52) lalenia: <http://ln-s.net/+p5l> (at happi.nettiareena.fi)
+(18:36:10) tapmak: can you efe divide tasks to different people and give all of us a deadline on those paragraphs?
+(18:36:16) efeefe: it's our decision to make, whether or not we will use those spaces
+(18:37:03) vx: and could we get an update please on the piratepad list as to who is physically going to be there ?
+(18:37:43) efeefe: tapmak: yes, but I think we should first decide. I mentioned before about merging the first two panels (deep resonant + smell of). or instead separate them completely, or even putting 'the smell' as short bits throughout the day - perhaps in the other venue
+(18:37:49) efeefe: LOTS of options. sorry
+(18:37:57) efeefe: any opinions about that?
+(18:39:39) efeefe: vx: most current list of people is here: http://piratepad.net/bricolacheplan
+(18:39:41) lalenia: Title: PiratePad: bricolacheplan (at piratepad.net)
+(18:39:43) tapmak: Think the deep resonant is a good title and the smell factor will emerge as it will
+(18:39:46) jaceee: I'm thinking that maybe deep resonant networking should be folded into another conference -- as I don't think I'll have the energy to run a whole thing in addidion to collecting material for the reader...
+(18:39:57) efeefe: I'm actually trying to edit that pad, but it keeps disconnecting
+(18:40:44) jaceee: [Aromatherapy's harmonic resonance and its effects on your health] (just saw that -- smell & resonance!)
+(18:41:16) vx: thanks - and yes it would help to see which of the 'delegates' actually wish to do this session as there is quite a lot going on
+(18:42:42) vx: also wondering if we could do something about technoshamanism again?   because we have bruno vianna, fabi borges, felipe, vicky etc all around and about and i know the tecnomagias are keen to keep developing the work and deconstructing or not of the concepts
+(18:42:55) efeefe: jaceee: then should we invert it?
+(18:43:14) efeefe: a panel 'the smell of brico' and your part in it is talking about the deep resonant
+(18:43:17) efeefe: thing
+(18:43:32) jaceee: is there an hourly schedule yet for each day -- that would be good to see, do get a feel for how much time we have to 'fill'
+(18:43:49) efeefe: jaceee: our day is only one
+(18:43:50) efeefe: 17th
+(18:44:04) efeefe: we actually should start the hourly schedule
+(18:44:15) efeefe: tapmak: what's the typical timeframe of conferences in helsinki?
+(18:44:31) efeefe: here in Brazil some people insist on doing panels 9AM, never works
+(18:44:31) jaceee: yesm efeefe -- I think that would work -- smell of brico being the main thing and resonance being a subset of that...
+(18:44:52) tapmak: there is no typical, as long as we take care of coffee breaks. :)
+(18:45:00) efeefe: then maybe "smell of bricolabs" for the whole morning of 17th?
+(18:45:13) gj_ [~chatzilla@93-139-173-177.adsl.net.t-com.hr] entrou na sala.
+(18:45:15) jaceee: ah, only one day, and do we alone fill the day? or how many other things will be happening other than bricos?
+(18:45:30) tapmak: start time should not be before 10 am
+(18:45:46) tapmak: and you can expect more peole at noon
+(18:46:10) tapmak: but we should ask Nathalie for a suggested framework for sessions vs. breaks and lunch
+(18:46:14) efeefe: jaceee: we're supposed to fill the whole day, except for (or actually including) the pixelache suggestion of a panel on open development
+(18:46:23) efeefe: (see here) http://piratepad.net/bripixconf
+(18:46:25) lalenia: Title: PiratePad: bripixconf (at piratepad.net)
+(18:46:52) vx: also need to think about times that are inclusive of our brico time frames.....
+(18:46:52) efeefe: "including" that one, as Armin Medosch was an active member of brico-list and was in our last meeting in AMS
+(18:47:02) efeefe: vx: indeed
+(18:47:36) gj saiu da sala (quit: Ping timeout: 264 seconds).
+(18:47:38) gj_ mudou seu apelido para gj
+(18:47:39) jaceee: it may be nice to fold things in with open development, but I guess that would depend...
+(18:48:06) jaceee: I'm just trying to get a sense of what things may be competing for people's time/attention
+(18:48:17) vx: that was one of the only reasons why earlier in a quick email to efeefe i mentioned that we might need to do different time slots......the difference in time between colombia and indonesia has posed problems before for us in terms of inclusivity
+(18:48:37) efeefe: more people at noon? 
+(18:48:45) efeefe: will we offer free lunch?
+(18:50:43) vx: always a good thing....will it be from recycled food?
+(18:51:51) tapmak: We have a lot to take care of with the programme. Even though I almost always cook, think we should leave that this time to the festival to set up. :)
+(18:52:36) efeefe: oops, sorry - was putting some mosquito repelent on my daughter
+(18:52:45) jaceee: yes, it would be easier -- we have to deal with quite some hours of 'content' other than lunch ;-)
+(18:52:47) efeefe: Dengue is strong this summer around here
+(18:53:59) jerneja: take well care of that, yes. heard is really strong.
+(18:54:02) tapmak: I had many bites there but was lucky.
+(18:55:04) efeefe: anyway - let's start to suggest hours etc?
+(18:55:06) vx: so - i have to head off in a few mins.    if you want to assign me with tasks i can get going on them early next week....
+(18:57:09) tapmak: I am also about to drop, started antibiotics today. Sinus infection + light bronchitis. Did sports with a cold and here's the cost. I have some time on the weekend, but going to Brighton Monday-Wednesday for a project meeting.
+(18:58:22) tapmak: I can write a paragraph on Affective geopolitics. Maybe it reads Affective geopolitics / networks.
+(18:58:32) jaceee: keep me posted...
+(18:58:56) jerneja: before I forget, anyone has the log from sunday chat?
+(18:59:08) tapmak: wd like to read it too
+(18:59:15) jaceee: Jerneja -- thanks for that second posting to the list, & I'll be in touch in the next couple days...
+(18:59:29) jerneja: didn't manage to save it. somehow electricy was cut off - as still had window open
+(18:59:32) jaceee: the list seems still to be surprisingly quiet, though...
+(18:59:48) efeefe: I'll send the log to the list afterwards
+(19:00:01) efeefe: trying to come up with a schedule for the day there: http://piratepad.net/bripixconf
+(19:00:06) lalenia: Title: PiratePad: bripixconf (at piratepad.net)
+(19:00:10) efeefe: we may be short in time for everything
+(19:00:19) jaceee: I wonder if the bots on the channel are set for logging...
+(19:00:34) jerneja: ok, if you have sundays it would be nice as well. thank you efeefe
+(19:00:40) efeefe: unless we leave one panel for even later, but need to check - I remember Nathalie mentioned there would be a keynote
+(19:01:28) efeefe: and then there is the ferry!
+(19:01:46) jerneja: was thinking about it now.yes what happens on the ferry?
+(19:01:51) efeefe: btw, important: the ferry won't be available for overnight crossing
+(19:02:22) efeefe: so we're probably taking the regular ferry, then sleeping in Tallinn and going to Naissari the next morning
+(19:02:29) jaceee: better to be short in time that have too much empty, but we also need to keep space/time open for conversations (not just one-way presentations)...
+(19:02:33) tapmak: so this has changed?
+(19:02:58) tapmak: originally we were to be able to host sessions on the ferry + sleep there?
+(19:03:08) efeefe: tapmak: yes, this has changed
+(19:03:28) jaceee: isn't it just a 3-hour crossing on the slow ferry?
+(19:03:35) efeefe: I'll check - we might be able to use a conference room on the ferry, but are not staying for the night
+(19:05:53) vx saiu da sala (quit: Ping timeout: 245 seconds).
+(19:06:00) tapmak: then we are probably on the ferry for 1h45 mins
+(19:06:42) jaceee: so on the hydrofoil or fast ones...
+(19:06:57) efeefe: hm, then maybe if Pedro Bayeux manages to go to Helsinki, we could show his and Maira's video
+(19:07:48) jaceee: are there evening performances at the Helsinki location?
+(19:08:20) tapmak: it's likely that many locals who travel will stay in helsinki and travel in the morning
+(19:08:22) efeefe: on our day, hardly - we'll be taking the ferry
+(19:08:29) tapmak: so audience will break up for that night
+(19:08:59) efeefe: ok
+(19:09:00) tapmak: I miss the logic of taking people there except that hotels are cheaper in Tallinn and maybe the trip to Naissaari is so early in the morning
+(19:09:22) tapmak: unless there is programme in Tallinn late, which I doubt coz it will be quite late
+(19:09:47) efeefe: I think it has to do with going early to Naissaari, indeed
+(19:10:16) efeefe: because afaik we're supposed to get back not that late on sunday
+(19:10:35) jerneja: that might be a good point, but we could decide on that as well. or? would it be good to break out from the audience, at some point? could you as that to nathalie, efe?
+(19:10:38) efeefe: so it will be something between 24 and 36 hours in Naissaari
+(19:10:53) jerneja: hm...okey. short indeed. ok leaving evening
+(19:11:07) efeefe: now - http://piratepad.net/bripixconf
+(19:11:09) lalenia: Title: PiratePad: bripixconf (at piratepad.net)
+(19:11:13) efeefe: we might be short on time for all that
+(19:11:24) efeefe: am I gibing too much time for every session?
+(19:11:28) efeefe: givng
+(19:11:29) efeefe: hrejs
+(19:11:39) efeefe: or should we leave the frenetic things in parallel?
+(19:12:50) jaceee: may times, presentations go way over, and almost always there is little time for dialogue w/ audience...
+(19:13:07) jaceee: so, having less may be better than more?
+(19:13:12) jerneja: no i like that, but perhaps for technical set up, the frenetic lab could start 15 minutes before the allocated time...maybe? as one hour is short
+(19:14:31) jerneja: and might continue into the break as well..
+(19:15:03) efeefe: freneticalities will probably continue into breaks and next sessions
+(19:15:25) efeefe: question is: what will happen in helsinki during those two frenetics?
+(19:15:50) efeefe: everyone is invited to one of the smaller rooms in happi?
+(19:17:04) efeefe: and there, what?
+(19:17:16) efeefe: watching people IRC?
+(19:17:32) jaceee: is there a description of the Frenetic things on the piratepad?
+(19:18:52) efeefe: it's the remote sessions
+(19:19:00) jerneja: vicky was saying earlier: will add that on piratepad on remote session
+(19:19:03) tapmak: As I am about to hit the bed, I wanted to distribute some smiles. Hence last few minutes I made this, hope you like it. :) https://www.dropbox.com/s/6tdzrrb55fmlnma/Bricosmell.png
+(19:19:03) efeefe: will paste it on the otherpad, one sec
+(19:19:07) lalenia: Title: Dropbox - Bricosmell.png - Simplify your life (at www.dropbox.com)
+(19:19:13) jaceee: ah, okay...
+(19:19:29) kiilo [~kiilo@84-73-25-17.dclient.hispeed.ch] entrou na sala.
+(19:19:53) jaceee: lol T.!
+(19:20:09) efeefe: jaceee: here http://piratepad.net/bripixremote
+(19:20:11) lalenia: Title: PiratePad: bripixremote (at piratepad.net)
+(19:20:11) jaceee: maybe we could hand some of those out...
+(19:20:30) jaceee: got it efeefe...
+(19:20:33) jerneja: green flavor is coming with spring i guess
+(19:20:37) jerneja: hehe,
+(19:21:01) tapmak: this is the winter edition ;)
+(19:21:54) jaceee: a hint of evergreen, a whiff of fir, a waft of larch, etc...
+(19:21:58) efeefe: vicky is gone already - we should define better the local/remote distribution in the coming days
+(19:22:38) jaceee: yes, as timing will be crucial for remote folks...
+(19:22:39) efeefe: tapmak: can you then write a couple paragraphs on affective geopolitics? I think Camilo's presentation could be part of it. Think of other people also...
+(19:23:07) tapmak: efeefe: yes, a draft
+(19:23:43) efeefe: cool
+(19:23:55) jaceee: I will start something about deep resonant networks...
+(19:24:05) efeefe: yes, I was about to ask you
+(19:25:03) tapmak: actually, laser cutting bricolabs wunderbaums on local pine ply and sprinkling them with some rain forest scents by Sandra could be nice (pointless yet nice)
+(19:25:58) jaceee: hehe...
+(19:26:05) tapmak: though, using any brand as predefined as the wunderbaum is besides the point in this case
+(19:26:35) efeefe: cut your own treeform
+(19:26:52) efeefe: either way - anything else about the conf/remote for today?
+(19:27:01) tapmak: nooo  - > off to bed < - good night!
+(19:27:19) jaceee: I don't think so... still big silences on the list, tho... makes me nervous!
+(19:27:41) jaceee: where is bricopower?
+(19:28:02) jerneja: zzz. nervous i am nt sure..seen some faces recently and  bricos are being rather busy these days
+(19:28:04) tapmak: "bricolate"
+(19:28:20) jerneja: i mean zzz i am off too
+(19:28:22) jaceee: hyvaa ilta T!
+(19:28:23) efeefe: jaceee: lists are shadows from the past
+(19:28:36) jerneja: ha. interesting point efe
+(19:28:39) jaceee: yes, I would agree, efeefe,
+(19:28:56) efeefe: people are still in the world, willing to do (and doing) things with others
+(19:28:57) jaceee: they are definitely dates, and slowly vanishing
+(19:29:13) efeefe: lots of documentation now is buried in facecrook, what is not a good thing
+(19:29:20) jaceee: that's right -- give people the opportunity, and they will sek each other out!
+(19:29:37) efeefe: walled gardens etc.
+(19:29:39) jaceee: I've been off FB for 2+ years now
+(19:29:59) jaceee: and have experienced some marginalization, to be sure
+(19:30:03) efeefe: jaceee: I was out of it until I realised none of my many sisters was replying to emails anymore
+(19:30:20) jaceee: yeah, I have no contact with family...
+(19:30:23) jaceee: almost
+(19:30:29) jerneja: relevant to me as in connecting, but mostly use it as entertainment channel
+(19:31:11) efeefe: I only check it to reply - browse very seldom
+(19:31:20) efeefe: the new pope is from argentina
+(19:31:22) jaceee: ach, but f2f dialogues are always necessary and desired
+(19:31:31) efeefe: hskjgdx
+(19:31:36) jaceee: who, that's big news!
+(19:31:47) efeefe: not if he's playing football
+(19:31:48) jaceee: from the south, a first!
+(19:31:55) efeefe: ("soccer" for you jaceee)
+(19:32:15) efeefe: first non-european since the 8th century
+(19:32:30) jaceee: nah, I speak international -- been out of the US 21 of last 25 years
+(19:32:44) efeefe: ;)
+(19:32:45) lalenia: efeefe: Error: ")" is not a valid command.
+(19:32:52) efeefe: shut up, you robot!
+(19:32:57) efeefe: gj: still there?
+(19:33:13) efeefe: should we discuss the exhibition a bit or is everyone too tired?
+(19:33:16) efeefe: (I am a litle)
+(19:33:46) tapmak: Argentinian pope believes in the return of Leo Messias
+(19:34:23) efeefe: haha
+(19:34:23) jaceee: ai...
+(19:34:27) efeefe: and saint diego
+(19:35:03) efeefe: I'll need to grab something to eat
+(19:35:10) efeefe: quick report on the exhibition then
+(19:35:22) tapmak: thanks and gnite, gotta bail out on this one!
+(19:35:32) jaceee: gnite
+(19:35:34) efeefe: good night tapmak! I
+(19:35:44) jerneja: i can go on a little bit more, but not too much
+(19:35:48) efeefe: I'll tell your sister about the weather in frio-land
+(19:36:01) efeefe: so, exhibition
+(19:36:10) jaceee: I've got to run as well... Jerneja, I'll be in touch in the next couple days...
+(19:36:16) jaceee: our time is running!
+(19:36:18) tapmak: give a hug for me please and a brotherly reminder to use anti-dengue repellent. /ciao
+(19:36:26) efeefe: some weeks ago we wrote a loose call for brico-things: http://piratepad.net/bricolabexhibit
+(19:36:28) lalenia: Title: PiratePad: bricolabexhibit (at piratepad.net)
+(19:36:35) tapmak saiu da sala (quit: Quit: Page closed).
+(19:37:19) efeefe: deadline was supposedly this week. there are a number of people listed there who said they are sending proposals but haven't yet.
+(19:37:40) jerneja: perhaps a reminder to the list can work. or one by one
+(19:37:40) efeefe: I'll be poking them this week
+(19:37:45) jerneja: yes
+(19:37:51) jaceee: argh -- I hope this event won't be a marker of the death of network-by-mailing-list...
+(19:37:55) efeefe: one by one
+(19:38:00) jerneja: ok john see you soon
+(19:38:04) efeefe: jaceee: that's a good theme for the reader etc.
+(19:38:13) jaceee: okay J.! gnite!!
+(19:38:13) efeefe: anyway
+(19:38:32) jaceee: yeah, that's what I am thinking -- that something serious is happening
+(19:38:36) efeefe: there should be some more proposals, but I think we can have an idea about it
+(19:38:52) efeefe: kruno just added about the mobile art lab
+(19:38:53) jerneja: Kruno just sent the link to the mobile lab
+(19:38:56) efeefe: http://wiki.noborderculture.eu/doku.php/mal
+(19:38:59) lalenia: Title: mal [New Media Cross-Border Wiki] (at wiki.noborderculture.eu)
+(19:39:00) efeefe: gj: are youthere?
+(19:40:23) jaceee:  I had better run -- I've got to cycle across town to get some dinner...
+(19:40:31) efeefe: from what we have discussed with Pixelache til now, having a workshop in the exhibition is not the best way to go
+(19:40:36) jaceee: when is our next meeting scheduled?
+(19:40:37) jerneja: gj seems not here but perhaps next wednesday spend time on IRC entirely on exhibition
+(19:40:51) jaceee: Wednesday, then//
+(19:40:54) efeefe: jaceee: every wednesday
+(19:40:58) jaceee: ok
+(19:41:17) efeefe: nathalie got prices by one company offering us three containers
+(19:41:22) efeefe: 1050 EUR
+(19:41:24) efeefe: still expecting others
+(19:41:27) jaceee: not bad...
+(19:42:03) efeefe: I don't know whether we would need 2 or three, weshould discuss that as soon as we hear about the proposals
+(19:42:30) efeefe: I was thinking maybe of a couple containers - one with bricothings, the other maybe with poster about brico-projects and spinoffs
+(19:42:42) efeefe: perhaps including bits from the reader process
+(19:42:43) jaceee: I hope the proposals come in soon!
+(19:43:05) jaceee: yes, that might work -- we could 'occupy' a container doing reader work...
+(19:43:08) gj: hey all
+(19:43:13) jaceee: IF the weather is warm enough!
+(19:43:14) gj: sorry was away
+(19:43:15) efeefe: they're supposed to arrive until the 15th
+(19:43:15) jerneja: any chance to hear if we get screens, projectors..which equipment can pixelache lend us
+(19:43:25) jaceee: it can be quite chilly there in mid-May...
+(19:43:31) jaceee: and wet/cloudy...
+(19:43:46) jaceee: two more days...
+(19:44:02) efeefe: jerneja: I think it's a matter of us deciding and checking prices to rent equipment
+(19:44:09) jaceee: okay, got to run, see you all next week or before...
+(19:44:11) efeefe: I wouldn't do anything inside the container
+(19:44:17) jerneja: reader work. on 17 we are busy the whole day...so 16 reader work...
+(19:44:37) efeefe: we have the happi space, that could host reader work + mobile art lab and whatnot
+(19:44:46) jaceee: sure, since we will be there... hopefully not extermely busy!
+(19:44:56) jerneja: if...rather think of material to print and build the archive as we discussed once, remember, some media archive corner
+(19:45:01) efeefe: also, there's the second part, camp pixelache in theisland that will be a good opportunity for workshops or working grous
+(19:45:05) jaceee: ah, the happi space, that is heated, then.
+(19:45:26) jerneja: ok byee.take care and bon apetit
+(19:45:30) efeefe: happily
+(19:45:38) jaceee: cheers!ciao!
+(19:46:10) jaceee saiu da sala (quit: Quit: ?adios amigos y amigas!).
+(19:46:56) efeefe: I guess that's it for today. I'll check my notes and post anything I may have forgotten when sending the log to brico-list later on
+(19:47:01) efeefe: any other question?
+(19:47:05) efeefe: (hungry here)
+(19:47:18) efeefe: gj: let's skype tomorrow, see how you can join the party
+(19:47:51) jerneja: if the issue of the discussion mailing list is getting into another era...then printing some material from discussions lists for people to read might be something to experience (on paper) I'd like to propose something around that
+(19:48:26) jerneja: and can fit some documentation on the logs story from kiasma and the estonian artist group I mentioned before.
+(19:48:41) jerneja: time is running out now, but efe what do you think about this?
+(19:49:14) jerneja: *fit in ...some documentation *i mean
+(19:49:43) efeefe: jerneja: that's a good idea for a brico-thing
+(19:50:08) jerneja: will work on that. then
+(19:50:17) efeefe: ok, proposals accepted until the 15th ;)
+(19:50:21) efeefe: one paragraph is enough 
+(19:50:38) gj: ok, got the general idea on the work you guys have done
+(19:50:45) gj: great amount if it
+(19:51:09) gj: hope to find area to fit something in
+(19:51:31) gj: lets keep posting
+(19:51:46) jerneja: sure you will. will see you hopefully in Zagreb.
+(19:52:03) gj: sorry for not being present, was finishing parallel application
+(19:52:07) jerneja: thanks efeefe and bon apetit to you as well..te ja
+(19:52:13) gj: see you in zg next week hopefully
+(19:52:13) efeefe: gj: you have my skype, right?
+(19:52:14) efeefe: fsfonseca
+(19:52:22) efeefe: chat more soon
+(19:52:22) gj: looks like it will be good event
+(19:52:34) gj: ok, ciao
+(19:52:39) efeefe: it will, look forward to seeing you (all) there
+(19:52:57) jerneja: gnightte
+(19:53:54) gj saiu da sala (quit: Quit: ChatZilla 0.9.90 [Firefox 19.0.2/20130307122853]).
+(20:22:55) kiilo saiu da sala (quit: Remote host closed the connection).
+(20:38:47) jerneja saiu da sala (quit: Ping timeout: 245 seconds).
+(21:23:32) hybrid saiu da sala (quit: Quit: Leaving).
+(23:33:07) The account has disconnected and you are no longer in this chat. You will automatically rejoin the chat when the account reconnects.

@@ -1,0 +1,441 @@
+Conversation with #bricolabs at Qua 06 Mar 2013 18:21:00 BRT on efeefe@irc.freenode.org (irc)
+(18:21:00) #bricolabs: O tópico do #bricolabs é: Bricolabs welcomes you | www.bricolabs.net
+(18:21:30) tapmak: Welcome home Felipe!
+(18:21:34) efeefe: alo!
+(18:21:36) vlax: oi
+(18:21:39) efeefe: helluva day
+(18:21:55) efeefe: took me 7 hours to get from Ubatuba
+(18:22:12) tapmak: Are you in Moema?
+(18:22:32) efeefe: yes. just met your sister in the supermarket on my way here
+(18:22:46) tapmak: haha, give her a big hug!
+(18:22:58) jerneja: ola
+(18:23:15) tapmak: ola also Jerneja
+(18:23:50) efeefe: alô jerneja
+(18:23:56) jaceee: Regarding viral input -- I'm not sure I'm tapped in enough to know who to ask what -- as I've not been f2f with anyone for 5 years now...
+(18:24:03) efeefe: did you start the meeting already?
+(18:24:31) jaceee: what, running into Finns in Brazil in the grocery store??
+(18:24:40) jaceee: that's a funny image!
+(18:24:53) jerneja: just few lines...reconnecting. I met the indonesian crew in paris
+(18:24:54) jaceee: sort of, efeefe
+(18:25:40) tapmak: Longer story, with nice outcomes, to share when f2f jacee
+(18:25:46) jerneja: then questions on the reader. not many bricos are replying, we were wondering if asking for contributions in  a more straightforward way
+(18:26:09) b3free saiu da sala (quit: Quit: Leaving.).
+(18:26:37) jaceee: yeah, I'm thinking a call of more than two lines long, no one reads these days ;-|
+(18:26:47) tapmak: How about thinking through some keywords and topic areas and then asking for contributions? We have some good topics for the meeting and could expand from that?
+(18:27:36) #bricolabs: You're not a channel operator
+(18:27:45) jaceee: yes, like the effects, strengths, potentials of deep resonant networking (as one theme from the 17th May program
+(18:28:02) tapmak: Plan B for a post Pixelache meeting; if there would not be enough things to edit, we could write a proper report/essay on what happened during Pixelache.
+(18:28:06) efeefe: I think the approach should be personal
+(18:28:08) efeefe: one to one
+(18:28:30) efeefe: tapmak: or even write about brico-silence
+(18:28:35) tapmak: yes, dialogues, but ppl it seems, need to be poked a bit to get started.
+(18:28:41) efeefe: some people disappeared from the mailing list
+(18:28:43) jaceee: I suppose anTapio, what time frame do you see with that plan
+(18:28:48) efeefe: Patrice is the first that comes to mind
+(18:28:58) tapmak: re-silience or silence?
+(18:29:08) jaceee: hehe
+(18:29:20) efeefe: resilence
+(18:30:01) tapmak: It would be simply to put two people on the list together and ask them if they could do a dialogue on a topic x (then edit the transcript and add notes, urls and tangents) ? ?
+(18:30:44) efeefe: tapmak: you make it sound so simple ;)
+(18:30:50) jerneja: but randomly? I am not sure
+(18:31:02) jaceee: sounds reasonable, Tapio, yep, easy... ;-)
+(18:31:02) tapmak: of course better if this happens organically, but if not, then by request. If each of us would do one dialogue, and we'd invite one by two other ppl, that's already a strong base?
+(18:31:33) jerneja: so, ira from honf might be able to come to helsinki, she will be in berlin in may...just before that
+(18:31:52) jaceee: perhaps we should add ot the pirate pad names of our potential victoms ;-)
+(18:31:56) tapmak: great!
+(18:32:00) n___ex saiu da sala (quit: Ping timeout: 252 seconds).
+(18:32:33) jerneja: ya. also finding new pirates. hehe
+(18:32:44) tapmak: Jerneja: How is Ira, and how is HONF managing the growth of their lab?
+(18:33:05) efeefe: maybe everyone here should already elect their own target
+(18:33:11) jaceee: jep...
+(18:33:24) jaceee: I just wrote the heading :
+(18:33:30) jerneja: they were in paris for wsis. stephen kovats organized it. hey have three labs now. and were back in amsterdam in working mode
+(18:33:38) jaceee: People who we would Like to see in Dialogues for the Reader:
+(18:33:48) tapmak: I suppose you took part to the Unesco meeting, where images that were taken looked a bit like a court hearing with Stephen Kovats as a lawyer :)
+(18:33:52) jerneja: (I mean one panel on wsis)
+(18:34:09) jerneja: no i went there personally
+(18:34:22) jerneja: to paris I mean
+(18:35:08) jerneja: venzha will be in the usa in the coming months too
+(18:35:27) tapmak: sorry jacee, please continue with a listing of potential discussants...
+(18:36:24) jaceee: oh, I hadn't gotten that far, but you mentioned Patrice,
+(18:37:20) olygamy [522dca3a@gateway/web/freenode/ip.82.45.202.58] entrou na sala.
+(18:37:24) jaceee: the usual suspects as they say -- Jaromil, Stephen, James, Rob, but it would be nice to see something from the other 150 people who are silent
+(18:37:47) olygamy: Hi Everbody! Thanks Felipe for a link
+(18:38:00) tapmak: Hi Kasia!
+(18:38:07) olygamy: Hi Tapio!
+(18:39:03) efeefe: welcome Kasia
+(18:39:12) jerneja: I was thinking, maybe even not from the list. as it is silent. but invite new bricos that are not in the list yet..and begin a conversation with them
+(18:39:18) efeefe: jaceee: the lurking masses are always like that
+(18:39:30) efeefe: maybe that's something worth provoking
+(18:39:40) efeefe: open questions for lurkers
+(18:39:47) efeefe: but that's a parallel path, I think
+(18:40:13) efeefe: jerneja: what is a brico that is not on the mailing list?
+(18:40:13) jaceee: yes, yes... this is a rather 'known' aspect of most social networks
+(18:40:24) jaceee: a few centralized nodes, and then the rest
+(18:40:31) tapmak: maybe when the questions are personal as efe suggested, there will also be repsonse...
+(18:40:39) efeefe: (similar topic is actively discussed in metareciclagem since 10 years now)
+(18:41:03) jaceee: so, perhaps also needed are some scripted questions to ask?
+(18:41:21) jerneja: well bricos that are nto yet familiar with the network and could enter the dialogue thru this collective effort, and familiarize with brico
+(18:41:22) jaceee: like, why the hell are you on the brico list?
+(18:41:26) efeefe: we can run the two in parallel
+(18:41:32) tapmak: It's impossible to fully represent a network, it will always be nodes speaking, yet that's cool
+(18:41:42) jaceee: jep
+(18:41:54) efeefe: tapmak: your sister just arrived ;)
+(18:42:18) tapmak: jaycee: now it is time of the big hug for me :)
+(18:42:28) tapmak: sorry, efeefe:
+(18:42:49) tapmak: though John, you could also hug my sister but Felipe is in the same house.
+(18:43:03) jaceee: ahah, I see, yes, a story...
+(18:43:15) jaceee: ;-)
+(18:43:16) lalenia: jaceee: Error: "-)" is not a valid command.
+(18:43:38) bronac [56066cbf@gateway/web/freenode/ip.86.6.108.191] entrou na sala.
+(18:44:04) tapmak: Been a long day at each end of the chat I think, might there be some things we could discuss today with a possible resolution as an outcome ? :)
+(18:44:29) tapmak: Hi Bronac!
+(18:44:36) bronac: hello everyone
+(18:44:36) efeefe: heya bronac
+(18:44:40) jaceee: Pixelache ends on the 19th, but what about the Estonian part and will we be over there right after Helsinki?
+(18:44:42) olygamy: Hi Bronac!
+(18:44:50) jaceee: hei B.
+(18:44:58) bronac: sorry to be late - i checked five mins ago but anyway hello
+(18:45:41) efeefe: jaceee: camp pixelache (the estonian part) is likely taking place from saturday morning til mid-sunday. then people are spposedly taking the ferry back to helsinki
+(18:45:43) jaceee: Anotherwords, when would be the time frame for doing the editing/compiling process? say 20-25 May or ?
+(18:45:45) bronac: hope all well?
+(18:45:50) efeefe: unless someone wants to stay there
+(18:46:01) jaceee: oh, I see, rather short, then, just 24 hours
+(18:46:25) jaceee: If I arrived, say, the 14th, would that work?
+(18:46:25) efeefe: Nathalie said 24-36, still deciding
+(18:46:47) jaceee: I was thinking that the gig on the island in .ee was for a longer time
+(18:46:57) tapmak: Think there is an issue with how many want to be there vs. housing and food, thus short time for Naissaari
+(18:47:07) jaceee: ah, yes
+(18:47:10) fredd [54559c25@gateway/web/freenode/ip.84.85.156.37] entrou na sala.
+(18:47:17) fredd: buonasera
+(18:47:30) jaceee: ei fredd!
+(18:47:32) bronac: buonasera!
+(18:47:40) fredd: sorry I am late
+(18:47:48) fredd: i believe
+(18:48:03) bronac: the rain was early
+(18:48:24) olygamy: Dear all - i have to say sorry - but i must keep it brief - have a massive lecture to give tomorrow and in the middle of nowhere with the presentation..Felipe - you mentioned something about new info re: venue for exhibit?
+(18:48:29) tapmak: buonasera; bon noite, hyvää iltaa
+(18:48:31) jerneja: hello Fred. we are discussing the possible meetings after pixelache
+(18:48:32) fredd: it's not the rain fault I got distracted
+(18:49:03) fredd: thanks J
+(18:49:37) efeefe: ciao fredd
+(18:49:50) jerneja: so possible arrival days 14. departure 21-22? and where to? Tapio what do u suggest?
+(18:49:51) efeefe: ok, let's focus on the exhibitionthen?
+(18:50:28) jaceee: I'd like to conclude the timing after Pixel first
+(18:50:32) efeefe: ok
+(18:50:45) jaceee: so I can start looking at tickets asap
+(18:51:19) efeefe: I won't be able to stay after pixelache, leave that to you people
+(18:51:19) jaceee: We could wrap up the reader (whatever the content we end up generating) by the 25th or so?
+(18:51:30) jaceee: when are you leaving, then?
+(18:51:31) jaceee: 20th?
+(18:52:06) tapmak: For me, the dates are flexible, but I should also fix them soonish.
+(18:52:34) tapmak: 15-19 Pixelache events
+(18:52:38) efeefe: yes, I'll probably leave 20th
+(18:53:01) jaceee: so I'll start to look at coming in on the 14th and leaving the 26th
+(18:53:18) tapmak: 20th-> could be editing/writing/developing - that timeframe sounds good John.
+(18:53:23) tapmak: jerneja?
+(18:53:31) jerneja: 20-24 post pixelache should be possible for me.
+(18:53:36) jaceee: that should be enought time after Pixel -- will there be housing for the after-pixel time, though?
+(18:53:40) jerneja: if nothing in between also till 26
+(18:53:50) jerneja: will fix these for sure
+(18:53:53) jaceee: good, jerneja
+(18:54:14) jerneja: nice!
+(18:54:29) tapmak: after pixeltime we can use the summerhouse on the island; just need to get food and get there :)
+(18:54:53) jerneja: sounds good. will let Ira also know
+(18:54:57) jaceee: okay, that sounds good Tapio
+(18:55:29) jaceee: I may stay longer in .fi, just to visit w/ friends, but that will be separate...
+(18:55:40) bronac: so does that lead into exhibition discussions?
+(18:56:04) jaceee: yes, I guess...
+(18:56:31) bronac: where are these at??
+(18:57:04) hd__ [b120696a@gateway/web/freenode/ip.177.32.105.106] entrou na sala.
+(18:57:19) jaceee: fredd -- will you be contributing a 'dialogue' to the brico reader? as you mentioned on the piratepad?
+(18:57:26) efeefe: so far, we had that (sort of) call we sent around. some people replied to it with proposals already. 
+(18:57:29) tapmak: Felipe: we can visit the island when you come in April at least day time. Because of exhibit prep and other organizing, doing things this way around makes more sense...
+(18:57:54) fredd: yes I will
+(18:58:18) fredd: I would like to find a person to talk about us and do it
+(18:58:19) jaceee: Jerneja -- do you want to write something short to the list asking for the lurkers to reveal themselves in dialogues?
+(18:58:44) jaceee: fredd-- is there another brico that you might have in mind?
+(19:00:28) jerneja: I met with the artists who did this installation near the SILO area we'll be in at pixelache, have a look http://tecnecollective.com/portfolio/silo468
+(19:00:29) efeefe: anyway, the exhibition. there are some proposals of 'things' arriving
+(19:00:30) lalenia: Title: Silo 468 | Tecné Collective (at tecnecollective.com)
+(19:00:55) jerneja: jaceee reveal in which way you mean
+(19:01:08) jerneja: a reminder?
+(19:01:10) efeefe: also, Nathalie told me more about the possible venues for the exhibition
+(19:01:25) bronac: ?
+(19:01:36) efeefe: The one I liked most was putting up some cargo containers outside Suvilahti
+(19:01:45) bronac: right
+(19:02:01) bronac: sounds appropriately brico
+(19:02:07) jaceee: well, either a simple reminder, or something to get things moving -- I feel like when I write things all goes silent ;-\
+(19:03:22) bronac: when do you have to decide efeefe?
+(19:03:41) tapmak: jerneja: yup, that's a cool project. In May it is so light outside that only on cloudy day will things work outdoors with leds or past midnight.
+(19:03:49) fredd: not really, I am open to suggestions
+(19:03:55) jerneja: will do that. jaceee, yep.
+(19:04:11) efeefe: actually, we asked for contribution ideas until mid-march. I'm still waiting to see what will come up. but I guess whatever comes in can be adapted to the container(s)
+(19:04:21) bronac: yes.
+(19:04:27) efeefe: actually, I've put this in the pad:
+(19:04:30) efeefe: "We're likely getting a couple cargo containers (like these: http://www.scandiccontainer.fi/index.php?page=kaeytetyt-kontit&hl=fi_FI ) to host the exhibition. "
+(19:04:35) lalenia: <http://ln-s.net/+mRf> (at www.scandiccontainer.fi)
+(19:04:38) jaceee: I'll hang out in a container if you want ;-)
+(19:04:45) efeefe: also:  There must be wooden boxes (perhaps 30 or 40 like these: http://4.bp.blogspot.com/-iV98rMIOrCs/UFqgQAe4v0I/AAAAAAAAGmE/HxRUF5yQdPs/s1600/Helsinki-Plant-tram1-2012.jpg ) available to define areas or other uses. 
+(19:04:49) lalenia: <http://ln-s.net/+mRg> (at 4.bp.blogspot.com)
+(19:04:53) efeefe: jaceee: are you a bricothing? ;)
+(19:05:06) bronac: wood is good
+(19:05:06) efeefe: And there is also a wall for graffitti: http://www.flickr.com/photos/hailten/3898065584/
+(19:05:09) jaceee: Tapio -- it'll be a reincarnation of net.sauna == net.container
+(19:05:13) lalenia: <http://ln-s.net/+mRh> (at www.flickr.com)
+(19:05:27) jerneja: nice one
+(19:05:36) jaceee: in the material world, yes, I suppose I am..
+(19:05:53) jaceee: in the resonant network world, I'm a participating energy node.
+(19:06:04) jaceee: ;-)
+(19:06:04) lalenia: jaceee: Error: "-)" is not a valid command.
+(19:06:28) efeefe: what we would need to decide soon would be how many containers
+(19:06:39) efeefe: so Nathalie can start asking for prices etc.
+(19:06:43) jerneja: bricosounds for a container
+(19:06:53) efeefe: they're usually 2,4m high and 6m wide
+(19:07:06) tapmak: sauna irc can be reinvigorated. In fact : some steam onto this one. Swoosh!
+(19:07:07) efeefe: (or 12m wide, but that's a lot)
+(19:07:09) tapmak: http://wdchelsinki2012.fi/ohjelma/2011-11-06/kulttuurisauna
+(19:07:12) lalenia: <http://ln-s.net/+mRi> (at wdchelsinki2012.fi)
+(19:09:25) tapmak: efeefe: can you ask if they are open side containers or open from the end? They will be _a lot_ of work to make them look decent depending on what is sent/to be made. So if budget is low, then indoors space with lights, electricity etc. is easier. I don't see myself painting and wiring containers last two 24hs before the festival...
+(19:10:00) efeefe: ok, can check that
+(19:10:44) efeefe: there are some which are open on the longest side, prettier ones. 
+(19:10:52) efeefe: but they seemed too fancy for my taste ;)
+(19:11:02) efeefe: one minute, looking for the pic
+(19:11:17) tapmak: http://www.saunasessions.ca/mobilesaunas/pmwiki.php?n=MobileSaunas.Netsauna
+(19:11:25) lalenia: <http://ln-s.net/+mRl> (at www.saunasessions.ca)
+(19:11:28) efeefe: these http://www.scandiccontainer.fi/uploads/images/nayttelykontti-mittakuva-iso.jpg
+(19:11:32) lalenia: <http://ln-s.net/+mRm> (at www.scandiccontainer.fi)
+(19:11:59) bronac: eh, do we know if the containers won't already be wired?
+(19:12:10) efeefe: these are expensive, as well
+(19:12:34) efeefe: we can ask that they do
+(19:12:57) bronac: tapmak - would we really need paint? or is that a metaphor for the amount of time it would need?
+(19:13:48) tapmak: Depends fully on the container. There are some used in fairs with glass doors and neat, but the transport ones are plain and rough, difficult to work with coz it is hard steel.
+(19:14:06) bronac: i had heard some smells were being sent....? that would be better in a container i guess...but i am not sure what is being planned
+(19:14:16) tapmak: You can also think about this: we don't know if the days in Helsinki will be sunny, or pooring rain.  Anything in between....
+(19:14:37) bronac: ok
+(19:14:39) tapmak: Container is a nice idea if it is sunny.
+(19:14:48) efeefe: there are other options as well
+(19:15:26) tapmak: maybe if there are projects that are container friendly, then there, but those that sit better indoors...
+(19:15:47) efeefe: "Another space that is available and is located next to Puhdistamo, is called Autotalli ('the   garage'), at the moment is used as storage space. It's smaller and a   very rough space and would need some walls to be built to hang things."
+(19:16:03) efeefe: "The Estonian Institute gallery space  (pictures  labeled Viron instiuutti in the Flickr photostream)  that is  also  located in Suvilahti. This space is about 100 m2, well lit and  all works  must be hung from the ceiling. If we were to organize the  exhibition at  the Estonian Institute, the exhibition would have to have  a link with  Estonia. "
+(19:16:17) bronac: !
+(19:16:44) efeefe: There's also a new gallery called Sorbus, in the Kallio district
+(19:16:54) bronac: ?
+(19:16:57) olygamy: Question is how many people responded to the concept of theexhibit and with what? Can we have an alternative to use both spaces? Ivan and I are almost ready with our part....
+(19:17:31) efeefe: olygamy: can you explain briefly your proposal?
+(19:18:02) efeefe: (also, tell Ivan that the deadline for the brazilian ministry of culture's travel funding is next week!)
+(19:18:49) olygamy: ah ok - yes - based on the vj nature workshop we are planning to do something with laser and beamer - to get the data and images in real time of small living organisms - a bit of biohacking meet hacteria type of installation in addition to the workshop
+(19:19:47) efeefe: nice. and what kind of space does it require?
+(19:20:24) olygamy: ha - well - darkened for sure
+(19:20:46) olygamy: we haven't sort out the exact size details - but it will come to you by 15th of march
+(19:20:46) bronac: are they synthetic or natural?
+(19:20:59) olygamy: we plan on natural :)
+(19:21:05) olygamy: of courswe
+(19:21:09) brv [~bru@187.89.21.117] entrou na sala.
+(19:21:24) bronac: nice. i just registered www.worldwilderweb.net - maybe we can use it?!
+(19:21:26) efeefe: alo brv
+(19:21:41) efeefe: bronac: nice one!
+(19:21:55) bronac: hahah this is my thing for the things
+(19:22:31) bronac: but not 'my' thing.....no idea what to do with i
+(19:22:34) bronac: it
+(19:22:52) brv: hello
+(19:22:57) bronac: hi
+(19:23:48) efeefe: brv: tu vai mandar a antena de bambu?
+(19:24:08) olygamy: bronac - super nice!
+(19:24:08) efeefe: you arrived exactly when we're talking about contributions to the exhibition
+(19:24:53) brv: efeefe: sim, vi aqui que custa 80 dólares pra mandar por fedex
+(19:25:11) brv: cool
+(19:26:05) efeefe: can you describe it quickly?
+(19:27:08) tapmak: Bricolabs responded to the S-N call, and I cannot help but to think that also the exhibit would be interesting if it could reflect on projects that have found their shape within Bricolabs, ones that are local or distributed, yet have been influenced by the network. For me, to show also projects like this makes the most sense... not to come up with various bits of artworks to be shown. Saying this without any opinion on any propose
+(19:28:34) efeefe: tapmak: can't we do both?
+(19:28:34) tapmak: yet of course a kind of network cornucopia without direction is also an option...
+(19:29:07) bronac: the organisms can move both north and south
+(19:29:08) vlax: what is a cornucopia? sounds interesting...
+(19:29:37) tapmak: a horn of plenty, from which new things and riches keep on pouring out
+(19:29:56) olygamy: Bronac - funnily enough Ivan and I were talking about organisms moving both directions
+(19:30:02) tapmak: finnish equivalent is Sampo from the epic Kalevala
+(19:30:25) olygamy: Anyhoos - dear all - i must go back to my lecture for tomorrow - am here, but will be lurking
+(19:30:35) efeefe: ok, thanks olygamy
+(19:30:40) bronac: key sounds good - let's chat again soon
+(19:30:42) bronac: k
+(19:30:47) bronac: good luck with the lcture
+(19:31:01) tapmak: cheers Kasia
+(19:31:12) olygamy: thanks - ping me if you need me via skype and will re-emerge
+(19:31:45) efeefe: so, we're still waiting for more ideas of contributions to decide definitely about venue etc. I'll ask Nathalie about electricity etc. inside the containers
+(19:31:56) fredd: I have read the Kalevala, what a poem
+(19:32:01) efeefe: any other questions on the exhibition?
+(19:32:01) fredd: in english offcourse
+(19:32:43) bronac: nao not for now
+(19:33:17) efeefe: so, last thing: conference
+(19:33:43) tapmak: fredd: it used to be songs and a living tradition, 1830s it became a transcribed collection of texts. It's quite powerful text...
+(19:34:36) fredd: yes i know :) I would love to ear some of the songs in a traditional form
+(19:34:51) efeefe: we should work on the schedule for the17th
+(19:34:54) fredd: it starts with the genesis being a red egg
+(19:35:02) efeefe: there are some ideas regarding the conference venue
+(19:35:06) fredd: from witch the world comes out
+(19:35:35) bronac: hehe - nice interplay
+(19:36:06) efeefe: =D
+(19:36:34) efeefe: LOL here
+(19:36:35) bronac: i can' t wait to see the red egg launch the conference
+(19:36:37) brv: anything online for the conference?
+(19:36:40) tapmak: LOL too
+(19:36:45) efeefe: http://piratepad.net/bripixconf
+(19:36:46) brv: i mean streaming or so
+(19:36:49) lalenia: Title: PiratePad: bripixconf (at piratepad.net)
+(19:37:03) efeefe: ahh
+(19:37:43) tapmak: I could moderate this one: Affective geopolitics
+(19:37:44) efeefe: there migh tbe plans of streaming already, I'll check with nathalie
+(19:38:09) efeefe: apart from that, I asked Vicky to send in a proposal to organise an online part
+(19:38:09) efeefe: http://piratepad.net/bripixremote
+(19:38:11) lalenia: Title: PiratePad: bripixremote (at piratepad.net)
+(19:38:19) efeefe: not sure how that fits the rest of the schedule
+(19:39:05) bronac: i am still not sure why we have three men speaking sorry - it gives a signal of bricolabs which is a bit too smokey
+(19:39:14) bronac: campfires
+(19:39:18) bronac: nmaybe
+(19:39:24) efeefe: bronac: are you coming to Helsinki?
+(19:39:24) efeefe: ;)
+(19:39:25) lalenia: efeefe: Error: ")" is not a valid command.
+(19:39:40) bronac: no i am not sure but i am sure we can find someone easily
+(19:39:58) efeefe: who's pressing enter there?
+(19:39:58) efeefe: ;)
+(19:39:59) lalenia: efeefe: Error: ")" is not a valid command.
+(19:40:43) efeefe: actually, there are very little women sending emails on brico-lust
+(19:40:45) efeefe: list
+(19:40:50) efeefe: skdjslkjdlk
+(19:40:50) bronac: haha
+(19:41:12) efeefe: bricolust sounds good as well
+(19:41:15) bronac: i think that is a much longer discussion ----------
+(19:41:41) efeefe: these typos must be Bronac's fault
+(19:41:54) bronac: yes for sure worldwilderweb rules
+(19:41:55) efeefe: like the flip-flop movement and others
+(19:42:21) bronac: haha!  ok...anyway I did not mention the speakers thing before but I wonder if there may be some way to balance it
+(19:42:26) jerneja: how does it sound to you if for example the estonian artist  i mentioned earlier in one of our chats would join us in helsinki and give us his philosophical account about colonization of east europe...(I mean could also be a recorder interview as part of the exhibition or reader)
+(19:42:41) jerneja: bricolush i prefer
+(19:43:04) jerneja: with balance, for the lust
+(19:43:09) jerneja: LOL
+(19:43:27) jerneja: as this is also something very local
+(19:44:04) efeefe: jerneja: will you help balancing the gender on panels?
+(19:44:04) efeefe: ;0
+(19:44:05) lalenia: efeefe: Error: "0" is not a valid command.
+(19:44:10) jerneja: i resend the link here http://chnldr.blogspot.com/2012/11/human-forestry-10-x-10-meters-est.html
+(19:44:13) lalenia: <http://ln-s.net/+mSQ> (at chnldr.blogspot.com)
+(19:44:41) jerneja: can do that.
+(19:44:45) bronac: Hey Jerneja - great!!
+(19:44:53) jerneja: the thing I have in mind is hackspaces
+(19:45:30) jerneja: will meet asbesto in sicily, want to bring out beirut hackspace. and have one starting (!) in Maribor..somehow..but is more like a lab actually
+(19:45:37) efeefe: I think we're missing some more concrete discussions
+(19:46:07) tapmak: <bricoblush> anyhow, a thought, could you Jerneja interview some of the active labs and spaces and present based on that, at the event?
+(19:46:18) efeefe: maybe we should have some case reports somewhere - then Jerneja could bring in these examples?
+(19:46:33) jerneja: would be nice.
+(19:46:35) bronac: and these might also be in the reader?  if not too much of a burden?
+(19:46:43) bronac: or online
+(19:46:47) jerneja: a nooo we're lushing haha
+(19:47:43) jerneja: but, thing is...time is  a bit running. however can bring in definetly some case studies
+(19:47:46) bronac: efeefe if not premature what are you going to be speakjing about?
+(19:47:51) tapmak: this time of the year we are still slushing
+(19:48:00) jerneja: :P
+(19:48:07) bronac: really? still....wow
+(19:48:50) efeefe: hm, just learned a new word
+(19:49:01) tapmak: actually Helsinki airport http://ilmatieteenlaitos.fi/saa/helsinki?parameter=4&map=weathernow&station=100968 has 81 cm snow depth.  Welcome!
+(19:49:01) efeefe: we don't have that verb here
+(19:49:05) lalenia: <http://ln-s.net/+mSV> (at ilmatieteenlaitos.fi)
+(19:49:22) bronac: not in Uk either
+(19:49:38) bronac: yet......
+(19:49:42) tapmak: term for wet snow, like sleet, no the ground
+(19:49:46) efeefe: bronac: I'm also planning on talking about 'labs', but from a flipflop perspective
+(19:50:16) bronac: hahahahah  ---ok so it is offcourse bricolabs network we talk about labs flabs blabs labs love them
+(19:50:40) efeefe: *labs
+(19:50:43) tapmak: now I am labaffled
+(19:50:53) jerneja: laflabbed
+(19:51:12) tapmak: labadabbadoo
+(19:51:31) tapmak: okay, I have had two glasses of red wine, Jerneja, what's your score?
+(19:51:33) bronac: ok this is becoming slushed.
+(19:51:54) jerneja: i just went to mains d'ouvre, seen sensitif lab from JN...met with agnes there
+(19:52:15) jerneja: camomille today..haha.
+(19:52:40) jerneja: what a nice labbaadoo...LOL
+(19:53:09) fredd saiu da sala (quit: Quit: Page closed).
+(19:53:14) efeefe: anyway - about the conference. any other names? 
+(19:53:42) efeefe: I think the panels are not polished yet
+(19:53:48) tapmak: us slushing around we are loosing folks. :) Well, obviously, Ira, from Honf?
+(19:54:50) jerneja: yes. will send her the dates
+(19:54:51) tapmak: I have not heard her speak in public though, just met her on a few occasions and impressed; Jerneja, has she given lots of talks on HONF activities?
+(19:54:51) efeefe: maybe we should stick with one more abstract discussion and the rest would be case reports?
+(19:54:56) jerneja: she is in berlin before that...
+(19:55:03) jerneja: i think around 9th may
+(19:55:18) efeefe: for re:publica?
+(19:55:25) jerneja: she just presented in wsis for her panel
+(19:56:04) jerneja: possible
+(19:56:15) tapmak: nice; also for the reader....
+(19:56:23) bronac: yes
+(19:56:58) tapmak: Is there a way to see of ppl who are subscribed to brico, where they are from, etc.?
+(19:57:19) jerneja: no u can see only email addresses
+(19:57:50) efeefe: indeed, only email addresses
+(19:58:10) efeefe: http://lists.dyne.org/mailman/roster/brico
+(19:58:13) lalenia: Title: Error (at lists.dyne.org)
+(19:58:25) efeefe: http://lists.dyne.org/mailman/listinfo/brico , put your email and password
+(19:58:27) lalenia: Title: Brico Info Page (at lists.dyne.org)
+(19:58:30) bronac: sorry if this was asked before efeefe but will it be feasible to for eg bring in Maira on conference somehow? or anyone else based in Southern hemisphere during the event?
+(19:58:37) efeefe: of you don't know your password, you can ask one
+(19:58:57) efeefe: we're already bringing in Camilo, from Colombia
+(19:59:21) efeefe: Pedro Bayeux (who works with Maira) is sending a proposal for the brazilian ministry of culture's travel funding program
+(19:59:30) efeefe: Ivan Henriques too
+(19:59:40) efeefe: vlax offered to go to Helsinki
+(19:59:57) efeefe: other than that, few people offered
+(20:00:07) bronac: ok.......that's physical right?  I was asking about connecting to people who will be south? Is this what Vicky is going to do?
+(20:00:28) efeefe: (I was hoping more people would be interested via the brico mailing list, but most people who offered to go were from the UK)
+(20:00:35) efeefe: =)
+(20:01:03) efeefe: ah, yes - Vicky offered to organise a remote session
+(20:01:05) bronac: yes no I was asking about the conference and connecting to hear others
+(20:01:08) efeefe: http://piratepad.net/bripixremote
+(20:01:10) lalenia: Title: PiratePad: bripixremote (at piratepad.net)
+(20:01:46) tapmak: - - S-N compass should be turning around via the dialogues. Putting your money where the mouth is?
+(20:01:46) bronac: I know Maira wants to be in Brazil and Vanessa in Colombia but can they be connected to for a c onference session for eg?
+(20:01:57) efeefe: we could try to bring people from abroad live on video. that is usually a lot of trouble, but anyway
+(20:02:22) bronac: I know....but maybe Pixelache can help us because it's a basic thing for this focus?
+(20:02:37) efeefe: yes, we can make it a priority
+(20:03:12) bronac: OK cool....thanks....
+(20:03:20) efeefe: do you see that as a slot on schedule for worldwiderweb session, or instead adding online bits to every thing we do?
+(20:04:06) bronac: no view really...just wondering ......had thought it might be your panel but i am not sure at all....
+(20:04:35) kiilo saiu da sala (quit: Quit: ciao).
+(20:05:15) efeefe: what do you all think of discussing the conference further this very week?
+(20:05:21) brv saiu da sala (quit: Read error: Connection reset by peer).
+(20:05:22) efeefe: friday or so
+(20:05:28) jerneja: ok, can do.
+(20:05:56) bronac: ok.
+(20:06:01) brv [~bru@187.89.21.117] entrou na sala.
+(20:06:03) efeefe: my batteries are almost gone. my laptop's as well
+(20:06:19) tapmak: I have pretty tight social schedule fri-sat evenings
+(20:06:23) efeefe: ei brv, is Nuvem joining the remote session on 17th of may?
+(20:06:35) jerneja: yep. zz too almost. what about sunday then?
+(20:06:38) brv: that's my plan
+(20:06:50) brv: but i'd like to send out more than chat
+(20:06:55) brv: images or something
+(20:07:21) tapmak: Sunday is good for me
+(20:07:21) efeefe: brv: you mentioned you improved the connection there, right?
+(20:07:34) tapmak: for Jerneja and Jaycee: for post pixelache, some nice music events in Helsinki for 24-26th; so editorial even could be split first island then Helsinki
+(20:07:37) bronac: yes Sunday would be better
+(20:07:37) efeefe: all: sunday, 21h GMT?
+(20:07:47) bronac: okay.....
+(20:07:48) jerneja: good
+(20:07:55) tapmak: sure
+(20:07:58) jerneja: nice tapmak.
+(20:08:24) bronac: images would be better than chat ----but chat soon
+(20:09:05) tapmak: caipirinhas and a chat on a beach would be good - - but chat soon :)
+(20:09:31) efeefe: tapmak: leave that for the second semester ;)
+(20:09:45) tapmak: efeefe: hello to family; and yes. :)
+(20:10:28) tapmak: family in the expanded sense...
+(20:10:32) bronac: stay dry, bye
+(20:10:38) bronac saiu da sala.
+(20:10:44) efeefe: cool - thank you all, chat soon!
+(20:10:49) jerneja: i like the idea for second semester...at bricouniversity.
+(20:10:59) jerneja: yup.
+(20:11:01) jerneja: chat on sunday
+(20:11:01) efeefe: second semester in Ubatuba!
+(20:11:04) tapmak: in ubatuba, October
+(20:11:09) tapmak: ha!
+(20:11:20) jerneja: yes
+(20:11:42) tapmak: gnite
+(20:12:07) efeefe: http://goo.gl/maps/Z7jIs
+(20:12:09) lalenia: Title: ubatuba - Google Maps (at goo.gl)
+(20:12:18) efeefe: boa noite
+(20:12:24) The account has disconnected and you are no longer in this chat. You will automatically rejoin the chat when the account reconnects.
