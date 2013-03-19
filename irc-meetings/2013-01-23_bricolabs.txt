@@ -1,0 +1,534 @@
+Conversation with #bricolabs at Qua 23 Jan 2013 18:12:08 BRST on efeefe@irc.freenode.org (irc)
+(18:12:08) #bricolabs: The topic for #bricolabs is: Bricolabs welcomes you | www.bricolabs.net
+(18:12:16) efeefe: alo, pessoas
+(18:12:46) bronac [56066cbf@gateway/web/freenode/ip.86.6.108.191] entered the room.
+(18:13:26) bronac: h'lo anyone there?
+(18:14:13) efeefe: hi bronac
+(18:14:23) efeefe: just arrived too
+(18:14:33) efeefe: how are things?
+(18:14:34) bronac: how's things?/
+(18:14:42) bronac: wow crossover
+(18:15:16) efeefe: hehe
+(18:15:37) bronac: are you in campinas or in uba?
+(18:15:52) efeefe: Sampa, actually
+(18:15:57) bronac: hehehe
+(18:16:07) efeefe: came here for 4 days, but ended up spending 9
+(18:16:12) bronac: wish i was there, sort of...we are having deep snow
+(18:16:13) efeefe: back to Uba tomorrow, though
+(18:16:19) bronac: but it's good for work
+(18:16:22) bronac: ok
+(18:16:34) bronac: how much work do you forsee on the pixelache planning?
+(18:16:35) efeefe: sao paulo has a pretty boring rainy week
+(18:16:44) efeefe: colder than it was supposed too during summer
+(18:16:48) bronac: yeah urban squal
+(18:16:50) efeefe: tops 25C
+(18:17:03) efeefe: anyway
+(18:17:27) efeefe: as for pixelache: we still need to make plans more concrete
+(18:17:42) bronac: i guess we can chat re what's to do from your perspective make a sort of list
+(18:18:02) efeefe: research+pub, exhibition, seminar, ferry 
+(18:18:15) maira: hello all
+(18:18:21) bronac: but conceptually also as we have sort of missed that out....does the north meets south overall theme need some unpacking/unpicking?
+(18:18:24) bronac: hey
+(18:18:42) efeefe: urgent definitions are a list of people and a first text for pixelache website etc.
+(18:19:05) bronac: right....claro.  Maira - you got some thoughts? hello
+(18:19:53) efeefe: yes - north/south x bricolabs responses - by the end of the meeting today, I'd like to have these ideas sketched to inform this first text
+(18:20:20) maira: bronac yes!
+(18:20:28) efeefe: oi maira =D
+(18:20:35) bronac: ok my first thought which i put on the pad was where does north meet south what does that sort of boundary setting really mean and what's on that line?
+(18:20:39) maira: oi efe
+(18:21:11) bronac: who defines it?
+(18:21:37) efeefe: is the point in which north meets south really a "where"?
+(18:21:47) bronac: good question
+(18:22:20) efeefe: I can understand north/south dicothomy if we see it as more related to general dynamics than actual places
+(18:22:24) bronac: it requires 'global' thinking and that sort of thinking can be questionable....i feel we should question it
+(18:22:29) aleij [~ad@xdsl-188-154-194-219.adslplus.ch] entered the room.
+(18:22:32) efeefe: but that can been too caricatural anyway
+(18:22:40) bronac: hey
+(18:22:45) aleij: O/
+(18:23:01) efeefe: aleij == hj4adj ?
+(18:23:08) efeefe: kiilo: you there?
+(18:23:44) aleij: Yes, im sick... so connected from another terminal
+(18:24:22) efeefe: because you're sick, you duplicate yourself? is it a healthy clone typing then?
+(18:24:31) efeefe: aleij: is it that cold?
+(18:24:37) aleij: Terminal sick
+(18:24:37) bronac: a healthy clone?
+(18:24:54) aleij: :s
+(18:25:03) efeefe: bronac got a good recipe from jerneja for her throat these days
+(18:25:11) aleij: A crazy strong flu
+(18:25:30) bronac: doesn't hurt to laugh anymore
+(18:26:04) efeefe: I was supposed to be in Berlin for transmediale, but ain't complaining that much it didn't work out :P
+(18:26:11) aleij: Headache? You have somethig for it?
+(18:26:16) maira:  I'm thinking... connect between Helsiknk Ferry Boat and RiachoGrande-São Paulo Ferry Boat - simultaneously
+(18:26:31) efeefe: have you guys seen this guy in GDR? https://vimeo.com/48152739
+(18:26:32) bronac: smiling: let's do it
+(18:26:35) lalenia: Title: Ton Matton - The Net Around Us on Vimeo (at vimeo.com)
+(18:26:46) efeefe: Werkstatt Wendorf
+(18:26:50) efeefe: thank you, lalenia
+(18:27:13) aleij: Nice connection, what protocols?
+(18:27:14) efeefe: maira: I'm only not sure about timing
+(18:28:06) bayeux [bd7866d2@gateway/web/freenode/ip.189.120.102.210] entered the room.
+(18:28:16) efeefe: Nathalie told me one possibility would be getting the overnight ferry helsinki-tallinn
+(18:28:21) efeefe: fala, bayeux!
+(18:28:23) maira: efeefe pedro is here :)
+(18:28:30) efeefe: quanto tempo, mano!
+(18:29:13) maira: efeefe, bayeux acha que é possível fazer
+(18:29:17) efeefe: alejo, bayeux is the guy who made the xondaro video I've shown in wintercamp
+(18:29:39) aleij: Like streaming over http maira? Or any other ways to connect those places?
+(18:30:01) efeefe: https://www.youtube.com/watch?v=iDkwULFP8Bw
+(18:30:03) lalenia: Title: Xondaro - YouTube (at www.youtube.com)
+(18:30:14) efeefe: eh maira, is there any connectivity there?
+(18:30:19) efeefe: vivo 3g?
+(18:30:22) bronac: could 'streaming' find its way into our text
+(18:30:36) bronac: we are streams
+(18:30:39) maira: aleij streaming + videos
+(18:30:40) efeefe: o bayeux, tem o video com legenda em ingles em alugm lugar?
+(18:31:09) maira: efeefe i don't know (yet)
+(18:31:22) efeefe: bronac: especially if we want to report back from waterlabs...
+(18:31:34) maira: efeefe (about connectivity)
+(18:31:42) efeefe: maira: or even in your place there
+(18:31:42) bronac: i like brico-streams
+(18:32:06) efeefe: (maira is trying to turn her family place in the woods into something of a lab)
+(18:32:14) bronac: onde?
+(18:32:38) aleij: ohh i know -streams- :)
+(18:32:47) maira: efeefe yes... Speedy and SKY
+(18:33:03) efeefe: ah, here the xondaro with english subtitles
+(18:33:03) efeefe: https://vimeo.com/album/83361/video/1901207
+(18:33:06) lalenia: Title: Xondaro, english subtitles on Vimeo (at vimeo.com)
+(18:33:10) efeefe: (that's in Ubatuba,afair)
+(18:33:13) maira: Riacho Grande have connectivity.
+(18:33:14) efeefe: valeu lalenia
+(18:33:25) bronac: ta
+(18:33:27) efeefe: maira: do you have the googlemaps link?
+(18:33:39) efeefe: bronac: practicing your pt-br?
+(18:33:42) maira: yes one minute please
+(18:33:48) bronac: got to
+(18:34:00) efeefe: when are you coming back here?
+(18:34:03) maira: bronac in Riacho Grande
+(18:34:19) efeefe: James Wallbank will spend a week in Sampa pretty soon
+(18:34:29) bronac: isn't that great?
+(18:34:36) bronac: campus party?
+(18:34:42) maira: http://goo.gl/maps/os6Fx
+(18:34:44) lalenia: Title: House - Google Maps (at goo.gl)
+(18:35:04) bronac: i liked his text. i think we can find ways to publish various people and their views...? reflecting mirrors....stories, sky
+(18:35:19) efeefe: campus party, yes
+(18:35:21) bronac: pictures of places....environments....
+(18:35:36) bronac: wish i coudl go along but look  forward to some tales
+(18:35:44) maira: and my house  https://plus.google.com/photos/107896815119788729333/albums/5831554031897322129?authkey=CJX1yu3b25TDQA
+(18:35:46) lalenia: <http://ln-s.net/+Vt3> (at plus.google.com)
+(18:35:50) aleij: telefonica that is
+(18:35:51) bronac: is everyone here in irc going to the meet in finland?
+(18:36:24) maira: in this pictures you can see the Ferry Boat
+(18:36:25) aleij: some here are bots
+(18:36:41) bronac: do we need to do some costings of the flights for people coming furthest then we know how much left over there?
+(18:36:46) efeefe: aleij: telefonica recently merged with another big telco (who operated mobile phones), and they decided to adopt the other company's name (as telefonica has such an awful reputation)
+(18:36:53) efeefe: now telefonica-br became vivo
+(18:36:56) aleij: so i can offers a good streaming server
+(18:37:11) bronac: cool......one thing for sure?
+(18:37:13) efeefe: and now they operate landlines, mobiles, cable tv and wireless hotspots
+(18:37:34) The account has disconnected and you are no longer in this chat. You will be automatically rejoined in the chat when the account reconnects.
+Conversation with #bricolabs at Qua 23 Jan 2013 18:38:18 BRST on efeefe@irc.freenode.org (irc)
+(18:38:18) #bricolabs: The topic for #bricolabs is: Bricolabs welcomes you | www.bricolabs.net
+(18:38:18) efeefe: oops, bad connection
+(18:38:21) efeefe: (vivo, btw)
+(18:38:44) maira: efeefe denovo, esconde-esconde :P
+(18:38:44) efeefe: bronac: yes, we need to start putting travel costs on paper
+(18:38:53) maira: bronac - http://piratepad.net/khC9fMx43g
+(18:38:55) lalenia: Title: PiratePad: khC9fMx43g (at piratepad.net)
+(18:39:32) efeefe: maira: it's pretty close from anchieta, then?
+(18:40:06) maira: efeefe yes
+(18:40:19) maira: 8 km
+(18:40:21) bayeux: fala efeefe!
+(18:40:35) efeefe: easy to get then
+(18:40:47) bayeux: tenho sim, mas sempre lembrando que é um video velho
+(18:41:15) efeefe: jah achei ;)
+(18:41:47) maira: bayeu efe tava falando do sobre o calendario para executar o que pensamos. vc acha que dá tempo?
+(18:41:53) efeefe left the room (quit: Ping timeout: 255 seconds).
+(18:41:57) maira: bayeux
+(18:43:18) efeefe: maira, bayeux do you plan to attend pixelache in helsinki or you'll be both in Riacho Grande?
+(18:43:56) efeefe: so far, in the pad there's very little people travelling long distances
+(18:43:57) efeefe: http://piratepad.net/bricolacheplan
+(18:43:59) lalenia: Title: PiratePad: bricolacheplan (at piratepad.net)
+(18:44:01) efeefe: I will be in europe already
+(18:44:16) efeefe: all the others are in europe too
+(18:44:43) efeefe: I reckon we could be able to bring someone over - even more so if we look for partnerships with consulates and the like
+(18:45:37) aleij: oke i got the answer to my question on the pad Skype/IRC those protcols are streaming
+(18:45:49) maira: efeefe: maira in br, bayeux in helsink
+(18:46:18) efeefe: maira: did bayeux run for the Minc edital de intercambio in the last  7 months?
+(18:46:33) efeefe: we could ask them to fund his trip + accomodation
+(18:46:54) efeefe: put as little pressure as possible over our general budget
+(18:47:34) efeefe: I'm also not sure about the connectivity conditions inside the ferry
+(18:47:53) bronac: i read maira's idea, is good - to me - especially as i went on the helsinki-tallinn ferry trip during the isea in finland and it has limited engagement with sense of place outside a big commercial style boat...bit suffocating
+(18:47:58) kiilo [~kiilo@46-126-77-178.dynamic.hispeed.ch] entered the room.
+(18:47:59) efeefe: I would suggest that streamings and chats should happen while we're still in helsinki (16th/17th)
+(18:48:31) bronac: the ferry does not feel bricio in any sense so we would need to bear this in mind
+(18:48:44) efeefe: we should make it feel like it
+(18:48:53) efeefe: ask someone to bring palo santo from Colombia
+(18:49:00) bronac: that's something to negotiate at outset i think
+(18:49:20) efeefe: aleij: you mentioned Camilo could be a good person to present Labsurlab there, right?
+(18:49:26) aleij: i have some palosanto
+(18:49:31) bronac: otherwise it may be uncomfortable place like the Haus of World Cultures in Berlin when they did not let us make food remember
+(18:50:10) aleij: definetively hes is the right person cause of the co.operaciones continuation
+(18:50:11) hdimantas [~hdimantas@187.37.56.244] entered the room.
+(18:50:49) efeefe: bronac: indeed, haus der kulturen is far from a cozy place
+(18:50:51) efeefe: alo hdimantas
+(18:50:56) ian_brasil [~ian@187-27-0-147.3g.claro.net.br] entered the room.
+(18:51:04) bronac: i'm all for spending some of the budget bringing into the zone people who live in south or east or wherever
+(18:51:11) maira: efeefe: bayeux "legal, e é viável" in gtalk chat
+(18:51:19) bronac: if they want to come to still chilly finland in may
+(18:51:21) maira: efeefe bayuex is very busy now
+(18:51:33) bronac: write
+(18:51:35) efeefe: aleij: can you check whether Camilo would be available then?
+(18:51:42) efeefe: alo ian_brasil!
+(18:51:47) aleij: si
+(18:52:01) maira: about connectivity i don't know also :)
+(18:52:50) aleij: is there a chance to afford that ticket so to avoid getting him to exited
+(18:52:55) ian_brasil: hey efeefe1
+(18:52:56) aleij: ?
+(18:53:35) bronac: hey Ian
+(18:53:51) maira: oi ian
+(18:53:51) hdimantas: hey all
+(18:53:56) maira: oi hd
+(18:53:57) bayeux: xondaro with english subtitles, but its an old video, old camera... http://www.pedrobayeux.com/xondaro/
+(18:53:58) efeefe: aleij: I would say so - if we can't sort out any other funding, then we bring Camilo in through Pixelache budget
+(18:53:59) lalenia: Title: Xondaro | pedrobayeux (at www.pedrobayeux.com)
+(18:54:27) aleij: great
+(18:54:49) efeefe: meanwhile, we could look for other sources
+(18:54:50) efeefe: http://embassy-finder.com/es/finland_in_bogota_colombia?page=4
+(18:54:51) bronac: should we send out a call to those who have signed up to attend to see what costs they may need covered ...then we can look at how to make the rest work also
+(18:54:53) lalenia: <http://ln-s.net/+Vth> (at embassy-finder.com)
+(18:54:53) aleij: i have actually a plan to put him in berlin before
+(18:54:59) maira: efeefe: "I would suggest that streamings and chats should happen while we're still in helsinki (16th/17th)" sounds good :)
+(18:55:06) bronac: yes
+(18:55:07) efeefe: or whatever you and him can think of, perhaps using MAMM's name ;)
+(18:55:21) efeefe: aleij: for re:publica?
+(18:55:22) aleij: oke
+(18:55:26) aleij: si
+(18:55:52) aleij: again co.operaciones more than labsurlab per se
+(18:56:04) bronac: sounds good?
+(18:56:42) efeefe: ah, ok, will change that in the pad
+(18:56:57) aleij: camilo works for a more compromissed place called parque Explora far bigger than the museum
+(18:56:58) hdimantas: sounds good
+(18:58:36) maira: hey all ! i gotta go :/ but in this week i'll translate http://piratepad.net/khC9fMx43g (hdimantas olhe esse link) hugs and kisses
+(18:58:37) lalenia: Title: PiratePad: khC9fMx43g (at piratepad.net)
+(18:58:45) maira: :
+(18:58:51) bronac: bye - see you soon!!
+(18:58:57) maira: bye :)
+(18:59:06) The account has disconnected and you are no longer in this chat. You will be automatically rejoined in the chat when the account reconnects.
+Conversation with #bricolabs at Qua 23 Jan 2013 18:59:33 BRST on efeefe@irc.freenode.org (irc)
+(18:59:33) #bricolabs: The topic for #bricolabs is: Bricolabs welcomes you | www.bricolabs.net
+(18:59:33) kornbluth.freenode.net: (notice) [freenode-info] channel trolls and no channel staff around to help? please check with freenode support: http://freenode.net/faq.shtml#gettinghelp
+(18:59:35) bronac: so...I have to go in ten minutes too...got more work to do tonight....
+(19:00:04) bayeux: i'd like to do both mini documentaries, if possible, like 3 days in br, with maira,  and a week in finland..
+(19:00:17) hdimantas: legal maira
+(19:00:24) bronac: am happy to contribute to a publication if people decide to do one....am interested in helping to edit...
+(19:00:40) bronac: i think jerneja is also
+(19:00:55) efeefe: bronac: let's draft a plan for the research/publication in the next couple weeks?
+(19:00:57) bayeux: like the documentaries complementing each other
+(19:01:09) bronac: righto.
+(19:01:34) efeefe: Tapio offered to host a pre-pixelache workshop on an island, perhaps for finishing a publication
+(19:01:34) efeefe: http://piratepad.net/bricolacheplan
+(19:01:36) lalenia: Title: PiratePad: bricolacheplan (at piratepad.net)
+(19:02:15) efeefe: but I'm not sure we will have anything by then - maybe leaving it for the working sessions while in Naissari the 18th and 19th of may
+(19:02:20) bronac: fab yes.  and mini documentaries and publishing ideas can all form part of the way we want to do somethng more than chat in time though that's all for doing also
+(19:02:25) efeefe1 left the room (quit: Ping timeout: 248 seconds).
+(19:02:43) efeefe: and treat it more as jumpstarting a publication that was worked in during prior months
+(19:03:19) bronac: yeah .....let's think about how to best move on it to give people time to work out what they would like to contribute
+(19:03:23) maira left the room (quit: Ping timeout: 245 seconds).
+(19:03:26) efeefe: bayeux: will you have something to show in Helsinki already or you're planning to work on it after Pixelache?
+(19:03:58) vlax [~vlax@189.148.193.186] entered the room.
+(19:04:23) vlax: hola oi hey :)
+(19:04:29) efeefe: ei vlax
+(19:04:32) bronac: hiya
+(19:04:43) aleij: ola vlax
+(19:05:21) bayeux: efeefe: do you mean a teaser or something like this about the doc here.br?
+(19:05:24) efeefe: bronac: ok then, let's coordinate the publication plan then, and maybe next week we have something 
+(19:05:31) b3free [~b3free@2001:4b98:dc0:41:216:3eff:fe52:a6f0] entered the room.
+(19:05:48) bronac: or we can throw it out the window but anyway something's brewing
+(19:05:58) efeefe: bayeux: we'll be organising an exhibition for the first part of the event in Helsinki. If you have something by then, it'd be great
+(19:06:23) b3free: alo!
+(19:06:26) efeefe: bronac: let's brew things
+(19:06:33) efeefe: fala vince b3free
+(19:06:34) bayeux: its possible, but i need to know exactly the agenda
+(19:06:51) b3free: how is going?
+(19:07:11) b3free: here in bagheria it rains
+(19:07:11) bronac: brew
+(19:07:12) efeefe: b3free: messy as usual
+(19:07:12) bronac: strew
+(19:07:15) bronac: stew
+(19:07:23) bronac: drew
+(19:07:24) bronac: mew
+(19:07:24) efeefe: dew
+(19:08:22) b3free: a cinema is going on my left
+(19:08:34) b3free: so..
+(19:08:38) efeefe: I'm still using the pad to jot down ideas
+(19:08:41) efeefe: http://piratepad.net/bricolacheplan
+(19:08:42) lalenia: Title: PiratePad: bricolacheplan (at piratepad.net)
+(19:09:04) The account has disconnected and you are no longer in this chat. You will be automatically rejoined in the chat when the account reconnects.
+Conversation with #bricolabs at Qua 23 Jan 2013 19:10:01 BRST on efeefe@irc.freenode.org (irc)
+(19:10:01) #bricolabs: The topic for #bricolabs is: Bricolabs welcomes you | www.bricolabs.net
+(19:10:04) efeefe: oops, lousy router :P
+(19:10:42) b3free: i suppose we can organize a link between the meetings we're going to organize with mocambos network
+(19:10:44) efeefe: did I miss anything in the last couple minutes?
+(19:10:59) b3free: but i don't know yet the dates
+(19:11:05) efeefe: b3free: I've put you and Taina in the pad
+(19:11:15) The account has disconnected and you are no longer in this chat. You will be automatically rejoined in the chat when the account reconnects.
+Conversation with #bricolabs at Qua 23 Jan 2013 19:12:02 BRST on efeefe@irc.freenode.org (irc)
+(19:12:02) #bricolabs: The topic for #bricolabs is: Bricolabs welcomes you | www.bricolabs.net
+(19:12:02) jaceee: sorry I'm late...
+(19:12:05) efeefe: ahhhh
+(19:12:11) b3free: is there any budget to count on?
+(19:12:19) jaceee: lookks like a big crowd today!
+(19:12:49) efeefe: we have a general budget for everything, including travel to/fro finland, accomodation, venues, fees and everything else
+(19:13:04) bronac: nothing to pay for storm damage
+(19:13:05) efeefe left the room (quit: Ping timeout: 248 seconds).
+(19:13:31) b3free: so we should invite somebody from outside in brazil maybe
+(19:13:43) efeefe: b3free: nao entendi
+(19:14:06) b3free: efeefe3: tem um efeefe para cada idioma?
+(19:14:09) efeefe1 left the room (quit: Ping timeout: 256 seconds).
+(19:14:28) jaceee: will they be able to provide some acomodations (inexpensive?) -- they do have access to some places in Helsinki, I think (from past events)...
+(19:14:40) efeefe: yes
+(19:14:49) efeefe: some are already listed here
+(19:14:53) efeefe: http://piratepad.net/bricolacheplan
+(19:14:56) lalenia: Title: PiratePad: bricolacheplan (at piratepad.net)
+(19:15:51) efeefe2 left the room (quit: Ping timeout: 256 seconds).
+(19:16:00) b3free: efeefe: sera que nao rola chamar o jaromil ou outros pro brasil por exemplo?
+(19:16:13) efeefe: com esse orcamento que a gente tem, dificil
+(19:16:25) efeefe: the budget is for organising the event in finland
+(19:16:29) efeefe: and estonia
+(19:16:52) efeefe: in a second moment, we can even get together and propose an event in Brasil related to the pixelache network
+(19:17:08) efeefe: (I'm already thinking of doing so, for a meeting in Ubatuba later in the year)
+(19:17:15) efeefe: but that's another theme, I think
+(19:18:18) aleij: i told camilo, i think he got a shiver
+(19:18:32) aleij: hope this works out
+(19:18:37) bronac: efeefe - when they say 'exhibition' does that mean a space with things to show or is it more fluid?  If the former then it would be good to have some discussion about how best to bring works together?
+(19:18:41) efeefe: we'll try
+(19:18:48) efeefe: bronac: a space with things
+(19:19:00) bronac: i see, right; that's a whole other dimension.
+(19:19:01) efeefe: btw, they sent me some possible venues, just a second
+(19:19:34) efeefe: I wanted to propose an open lab, but they expect something more concrete
+(19:20:06) jaceee: I would like to do an actual presentation (from remote) at some point, anyone else ant to do this -- perhaps we can set a particular time/venue within the framework of the program...
+(19:20:11) efeefe: http://www.flickr.com/photos/27126283@N07/sets/72157632568072327/
+(19:20:15) lalenia: <http://ln-s.net/+VuU> (at www.flickr.com)
+(19:20:17) bronac: remember we pitched in that idea with Vicki to Dublin science lab - like a TAZ?
+(19:20:21) jaceee: want, not ant ;-)
+(19:20:38) b3free: efeefe3: how openlab?
+(19:20:57) efeefe: jaceee: you're definitely not coming, then?
+(19:21:03) bronac: i don't know how bricolabs can do a formal structured exhibition...it's quite a challenge...so needs a bit of mind time
+(19:21:10) efeefe: jaceee: I felt you were not decided yet
+(19:21:20) jaceee: well, I'd say 80% not able, but there is still a small chance...
+(19:21:48) efeefe: bronac: one possibility would be thinking of projects that were conceivedwithin Bricolabs, even if they developed autonomously
+(19:21:52) jaceee: I understand I would have to cover my own way, and I'd organize housing with friends if I did make it...
+(19:22:58) efeefe: b3free: I thought we could transform the exhibition into a live lab, with people developing their own things, but I don't think that would work
+(19:23:36) vlax: the openlab model is like patadeperro was talking right? i.e remote talks from south...etc
+(19:23:53) efeefe: jaceee: we can try looking for funding or something, if you think you should come. but would you be able to? I think you said you would be teaching then.
+(19:23:55) bronac: it's just that having worked for first time last year with objects (things) for galleries it is a whole other task that i guess requires transportation and curation if that's not the wrong word even if auto-works
+(19:24:04) efeefe: vlax: that's something else, I reckon
+(19:24:23) bronac: i thought John said he would in the desert contemplating empty skies (I thought it sounded wellworth doing though)
+(19:25:05) bronac: we could ask the list if anyone wants to help curate it ----in right brico styule
+(19:25:06) efeefe: bronac: it depends on the theme and objects we decide for
+(19:25:08) bronac: style
+(19:25:12) bronac: yes i guess
+(19:25:23) brv [~AndChat50@177.176.201.228] entered the room.
+(19:25:27) bronac: could be beautiful
+(19:25:37) brv: Oi
+(19:25:39) efeefe: brv could help on that, neh bruno?
+(19:25:45) efeefe: hehe
+(19:25:47) brv: Helo
+(19:25:48) bronac: we could include a picture of John contemplating empty skies in the desert
+(19:25:57) brv: Hello*
+(19:26:09) brv: Come again :-)
+(19:26:10) efeefe: or his 3d-cutted depiction made on James's laser cutter
+(19:26:13) vlax: to curate in the "brico styule looks interesting...
+(19:26:17) efeefe: oi brv
+(19:26:20) bronac: hahahaha....> let's do it
+(19:26:40) efeefe: we're talking about the exhibition in helsinki for pixelache
+(19:26:47) brv: Cool
+(19:27:05) aleij: there are a couple of tracks that span after the bricolabs wintercamp meeting to make for an exhibition/presentation space
+(19:27:15) aleij: ola bruno
+(19:27:39) brv: Ei alejo
+(19:27:42) aleij: no need for curators i think
+(19:27:50) bronac: throw them out the window
+(19:27:55) brv: Chevere
+(19:28:10) efeefe: aleij was suggesting ideas on radio frequencies, JNM's explorations of morse code over narrow-bandwidth radio, etc.
+(19:28:14) brv: So What would be exhibited?
+(19:28:28) efeefe: brv that's a good question
+(19:28:28) aleij: also the wok on scents
+(19:28:30) efeefe: what?
+(19:28:55) efeefe: brv: don't you want to propose something on 'facing north/facing south' between Penedo and Helsinki?
+(19:28:58) efeefe: finnish connection
+(19:29:08) efeefe: the ice cream tastes ok
+(19:29:16) efeefe: anyway
+(19:29:19) brv: I'm doin fun stuff with sstv
+(19:29:24) brv: Slow scan tv
+(19:29:38) bronac: that has a history
+(19:29:42) efeefe: I think the first thing we should come up with is exactly what Nathalie asked us
+(19:29:59) efeefe: a short text on how Bricolabs sees the Facing North / Facing South thing
+(19:30:10) efeefe: I know we have already discussed part of it in our last IRC meeting
+(19:30:28) efeefe: but I'd like some help to turn that into a proper text
+(19:30:37) bronac: ok first q: does facing north mean back is to the south?
+(19:30:38) efeefe: (a proper text for a website, nothing too long)
+(19:30:53) brv: I stram for ice cram
+(19:31:00) brv: Stram*
+(19:31:07) efeefe: http://www.pixelache.ac/helsinki/festival-2013/
+(19:31:18) brv: Can't really crack a joke on this keyboard
+(19:31:29) brv: Stream!
+(19:31:32) efeefe: "If every North as its South and every South its North, this is an  invitation to alternately face North and South from multiple points of  views. "
+(19:31:41) bronac: back to streaming
+(19:31:48) efeefe: lalenia: where's my URL fetching?
+(19:31:49) lalenia: efeefe3: Error: "where's" is not a valid command.
+(19:31:53) efeefe: idiot
+(19:32:21) efeefe: "From  a global point of view, relations between commonly understood  North and  South are even more complex and the problematics raised by  cooperation issues are multifaceted. Various non-western initiatives  have been encountered through the Pixelache Network  during the past years and Pixelache has contributed to disseminate an  approach strongly relying on  the potential of open source, DIWO and  peer-learning practices. In that context, both individuals and pixelache  nodes have been exploring two-way exchanges and on-going processes."
+(19:32:30) efeefe: two-way exchanges
+(19:32:33) brv: How do you look north and south at the same time?
+(19:32:40) bronac: let's critique 'non-western'
+(19:32:59) efeefe: bronac: don't get me started =D
+(19:33:04) bronac: sorry
+(19:33:11) efeefe: hehe
+(19:33:30) brv: We'rw working on the idea of the equador
+(19:33:38) aleij: zero dollar laptop, jnm philipe free infraestuctures, streaming tec, connectivity in rural caribbean coat vanessa.. just trying to remeber things freom witercamp
+(19:33:56) efeefe: waterlabs, etc.
+(19:34:04) brv: As the north/south interface
+(19:34:14) efeefe: aleij: we discussed also 'generic infrastructures' as a possible theme for the exhibition right?
+(19:34:31) aleij: yes we did
+(19:34:42) efeefe: brv: equator can be interesting for north/south thing
+(19:34:49) vlax: sorry.. what's "generic-infrastructures?
+(19:34:53) brv: Generic as open source?
+(19:35:06) bronac: iequator interests me too
+(19:35:13) efeefe: vlax: generic infrastructures were a pretty common theme when bricolabs was created
+(19:35:19) brv: I like the quator because in our hemisphere
+(19:35:25) efeefe: rob should be here
+(19:35:38) aleij: free information infraestreuctures? might be better..
+(19:35:41) bronac: i think matt ratto spawned that term
+(19:35:45) brv: The southe is the north, ie, the south is more deeveloped
+(19:35:47) bronac: the first one
+(19:35:54) efeefe: free/open information infrastructures, etc.
+(19:36:17) bronac: reversal of poles
+(19:36:56) efeefe: a number of projects that circulated among bricolabs could be understood as a search for free/open infrastructures
+(19:37:26) brv: Exactly, poles reversed, so the equator becomes the reference
+(19:37:29) efeefe:  zero dollar laptop, bricophone, streaming tec, connectivity in rural caribbean coast
+(19:37:33) bronac: and trying ot find or make spaces between the deadweight/heavyweight
+(19:37:40) b3free: we can make some experiments with syncronization
+(19:37:54) efeefe: also, waterlabs, open source wash machine and others 
+(19:37:54) aleij: thats the point i see as a way to fit the exhibit slot
+(19:38:04) bronac: real
+(19:38:16) brv: The drift of the magnetic pole toward the middle---
+(19:38:29) efeefe: and maybe we can think of refab-space, IOT council and metareciclagem/rede//labs through that perspective as well
+(19:38:44) jaceee: sorry, efeefe -- I was called away -- university ends about a week before, so technically I could come, but it is more a $$ question for me...
+(19:38:50) efeefe: but am I a little biased here?
+(19:39:20) jaceee: If I don't come, I would liek to find a place to particiapte from -- preferably the desert...
+(19:39:34) bronac: i think it is more than infrastructure - it is also about personality
+(19:39:44) bronac: the magnetic effect of shift
+(19:39:54) bronac: reversal and shift backwards to forwards
+(19:40:11) bronac: or drift
+(19:40:14) brv: Subjective infrastructure
+(19:40:26) bronac: nice....subjective infrastructures
+(19:40:42) bronac: micro
+(19:40:52) efeefe: interesting indeed
+(19:40:53) jaceee: a desert spot for dreaming something like http://tech-no-mad.net/blog/archives/4326
+(19:40:53) brv: Micro
+(19:40:56) lalenia: Title: The End of the Road and The Onset of Dreaming - the tech-no-mad (b)log (at tech-no-mad.net)
+(19:40:59) jaceee: w/o the road...
+(19:41:18) bronac: water holes and campfires
+(19:41:31) bronac: endless sky
+(19:42:13) jaceee: hehe http://tech-no-mad.net/blog/archives/45592
+(19:42:15) lalenia: Title: self-portrait under a full moon - the tech-no-mad (b)log (at tech-no-mad.net)
+(19:43:13) efeefe: I think as soon as we define a little more our collective response to the north/south thing, ideas for exhibition will emerge
+(19:43:20) brv: Pothole roads
+(19:43:22) bronac: magnetic drift is good.
+(19:43:36) bronac: I got to run now, everyone.....see you all soon.  X
+(19:43:52) brv: See ya
+(19:43:55) jaceee: How about 'following field lines'
+(19:44:04) bronac left the room (quit: Quit: Page closed).
+(19:44:16) efeefe: I like the subjective infrastructure thing
+(19:44:47) efeefe: "infrastructure" sounds like you're doing something to be universal and big
+(19:44:56) jaceee: one is oriented when following eletromagnetic field lines...
+(19:45:05) brv: This could be an exhibtion idea
+(19:45:18) jaceee: with a field, there is nothing, only the device to record the orientation
+(19:45:22) jaceee: (a compas)
+(19:45:26) jaceee: compass
+(19:45:35) jaceee: or a magnetometer
+(19:45:37) brv: Let's move the magnetic pole
+(19:46:02) brv: A compass that points to the equator
+(19:46:03) jaceee: and the flux lines fluidly connect the poles
+(19:46:12) vlax: to move the magnetic pole!!
+(19:46:27) jaceee: it's already moving
+(19:46:38) jaceee: and the north pole is in the centre north of Canada
+(19:46:53) jaceee: a LONG way from the geographic pole
+(19:46:54) brv: True
+(19:47:03) aleij: im not to sure about the subject in the infra... but this is me dealing with what object orriented onthology throws
+(19:47:09) brv: We'll just give it a little push
+(19:47:33) aleij: more fond to drift, latencua, opacity..
+(19:47:34) efeefe: aleij: perhaps something that makes us unsure is a good way to go
+(19:47:35) efeefe: ;)
+(19:47:36) lalenia: efeefe3: Error: ")" is not a valid command.
+(19:47:46) efeefe: aleij: opacity in what sense?
+(19:47:54) jaceee: ever made a compass?
+(19:47:59) aleij: diversity
+(19:48:14) jaceee: it works the same for everyone, it does not discriminate
+(19:49:04) jaceee: & what about part of the workshop finding someone with homing pigeons (who follow the flux lines)
+(19:49:11) brv: I Never was a scout :-(
+(19:49:27) jaceee: they are sensitive about being in alignment with what connects the poles...
+(19:49:36) jaceee: (kind of like brico!
+(19:50:03) efeefe: what about bricolabbers making their own compasses in different locations, taking pictures of them and that's incorporated in the exibition?
+(19:50:30) jaceee: yup! that's be nice...
+(19:51:14) jaceee: you know that's really the only way that Columbus 'discovered' the 'Americas' was w/ compass and watching the stars!
+(19:51:52) vlax: &what about bricolabbers organizing detournements with these compasses to hunt for sounds to be streamed from helsinsky?
+(19:52:01) aleij: i do that for a couple of years now jacee: http://dorkbot.org/dorkbotmde/trueque/?ARDF
+(19:52:02) lalenia: Title: ARDF in Switzerland (at dorkbot.org)
+(19:52:34) aleij: hunt the spy kinda game
+(19:52:42) jaceee: beautiful/who #ircle
+(19:53:03) jaceee: aleij -- yeah, nice!
+(19:53:05) vlax: track the spies
+(19:53:19) efeefe: aleij: ever made one for hunting trouffes?
+(19:53:53) maira [bacc152b@gateway/web/freenode/ip.186.204.21.43] entered the room.
+(19:53:58) aleij: mushrooms all onthe continentecontenido hotglue
+(19:54:15) jaceee: hehe, do they work?
+(19:54:38) aleij: they do swiss made
+(19:55:02) efeefe: I'll need to leave pretty soon
+(19:55:33) efeefe: I'd like to propose for us to keep on meeting every wednesday, 20h GMT, until may ;)
+(19:55:35) aleij: me too im still sick..arggg
+(19:55:58) aleij: i idle here anyways
+(19:56:01) brv: And i'm running out of batteries
+(19:56:04) efeefe: also, I'd love to have another meeting over this weeked to focus on the text we're supposed to send
+(19:56:10) vlax: and i'm hungry
+(19:56:13) efeefe: brv: are you in Maua?
+(19:56:24) jaceee: sounds good to me, this is good a time as any as I struggle with 50 students ...
+(19:56:30) brv: In the bus t rio :-(
+(19:56:42) jaceee: I finish yoga and can come right here...
+(19:56:42) brv: Sunday is good
+(19:56:49) brv: Wednesday too
+(19:56:57) jaceee: I'll try to idle here more...
+(19:56:58) aleij: vlax u plan to come?
+(19:57:08) brv: I'm happy i finally made to one meeting
+(19:57:37) vlax: maybe... sería chingón bacanón
+(19:57:48) aleij: camilo will have no excuse to not come if you do
+(19:58:22) vlax: ok, so,, i can bring the mezcal to really really facing south-soulness :D
+(19:58:43) efeefe: deep south
+(19:59:29) efeefe: so, I'll send the log of today meeting to the brico-list
+(19:59:33) jaceee: ps - I got a couple bilingue HIspanic students, finally...! they are rare on this campus! So, I will be turning them towards any sSpanish language resources that you folks can point me to (maybe on themailing list...)
+(19:59:37) efeefe: documenting ideas and questions on this pad: http://piratepad.net/bricolacheplan
+(19:59:40) lalenia: Title: PiratePad: bricolacheplan (at piratepad.net)
+(19:59:45) efeefe: please add/edit how you see fit
+(19:59:57) efeefe: and we'll try to meet this sunday, same time, to work on the text
+(19:59:57) jaceee: shall I put a few comments on magnetic field lines and compasses?
+(20:00:06) efeefe: and do another general IRC on wednesday
+(20:00:16) efeefe: jaceee: as you like
+(20:00:36) brv: Ok
+(20:00:38) vlax: ok
+(20:00:45) efeefe: jaceee: send your students to Medellín ;)
+(20:00:56) brv: I'll add equator and subjetctive infrastructures
+(20:01:04) vlax: yes.,..send them to paisa-land!!
+(20:01:29) vlax: and send them to oaxaca too...
+(20:01:59) efeefe: send them out of the US ;)
+(20:02:03) vlax: hahaha
+(20:02:31) jaceee: very good! I'd love to send them...
+(20:03:02) jaceee: I think they may already know Oaxaca, there's one faculty from around there
+(20:03:25) vlax: that's cool
+(20:03:53) jaceee: send ME out of the us !
+(20:04:02) efeefe: haha, let's try that as well jaceee
+(20:04:05) vlax: hahaha
+(20:04:05) jaceee: it's rough being here
+(20:04:06) efeefe: nice, talk more soon then
+(20:04:21) jaceee: okay, nice talking I'll try to make it earlier nexxt time
+(20:07:59) efeefe: ok, chat again soon. tchau!
+(20:08:05) The account has disconnected and you are no longer in this chat. You will be automatically rejoined in the chat when the account reconnects.
