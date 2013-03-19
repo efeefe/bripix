@@ -1,0 +1,124 @@
+ 
+<< http://piratepad.net/bricolacheplan
+
+>> http://piratepad.net/bricocoisasbr (pt-br version by efeefe)
+
+Exhibition - Bricothings
+
+Mid-march is alhere. Below are the ideas that have shown up so far:
+
+ * Posters about Br
+ * B
+ * Bamboo antenna - Bruno Vianna
+ * ZASF- Felipe Fonseca
+ * Cotidiano Sensitivo - 3CO
+ * Sobre o Google Earth - Hernani Dimantas (read in pt-br: http://piratepad.net/bricocoisasbr)
+ * Metasubcibertrans (Video) - Fabi Borges, Tininha Llanos
+ * Artificial Fulgurites - Jonathan Kemp
+ * Metatude (artisanal book) - Silia Moan
+
+
+
+Bricolabs network is weaving a collaborative programme for Pixelache Helsinki 2013, "rooted in deep resonant networks where borders are seldom taken into account". The plans include a conference, maybe some workshops, a collective publication (or else an open process that might lead to that, eventually) and an exhibition.
+
+To tell the truth, we are facing some issues in regards to the exhibition: whilst Bricolabs has a very concrete nature since its beginning, the very idea of transforming fluid processes into physical objects to be shown somewhere is felt as inappropriate by some.
+
+In discussing such matters, we have decided to open a call for brico-things: objects that embody complex processes, becoming handles that open up the progress of ongoing projects. Examples of relevant contributions would be:
+
+ * Physical things, to be sent or brought to Helsinki. Crafted objects, electronic devices, palo santo wood, working tools, installations... whatever represents brico for you. Proposal should include shipping costs, take into account customs procedures, define whether the thing should be sent back or else donated (and to whom). Could also be small things to be distributed to Pixelache participants like badges or stickers;
+ * Documentation of past projects, current hypotheses or future concepts. From technical documentation to symbolic representations of your working processes, local context, results found or unsolved issues. Files must be prepared to be printed (vertical A4 document) in Helsinki or played on a screen (1-2 minute videos/audio);
+ * 3D files to be lasercut in local Fablab or in Refabspace (Sheffield) and then brought to Helsinki;
+ * Any other idea we may have.
+
+Insisting on networked e/affects, anyone interested could ask any other person in the world to submit whatever s/he believes is relevant for the bricolabs approach. The very conversation about things and processes could be incorporated in the exhibition.
+
+Draft ideas will be accepted until the first half of March 2013. Bear in mind that the exhibition is supposed to open the 15th of May in Helsinki - time is short, we must be quick!
+
+Please send us at least a title, short description of your contribution and a short statement of how it related to the bricolabs programme and the general theme of Pixelache (facing north/facing south). Proposals will be received via the brico mailing list or private messages to felipefonseca AT gmail. You can also post your proposal anywhere on the web and paste below a permanent URL.
+
+PROPOSALS
+
+ * Cinema Piratota : audiovisual sculpture and ephimeral object about copyright policies and piracy culture in Mexico and Latin America.  https://n-1.cc/pages/view/1602602/cinema-piratota-eng
+ * ZASF - wireless autonomous zone, an ongoing project by efeefe, http://desvio.cc/tag/zasf 
+ * Bruno Vianna - Bamboo Antenna
+ * 3ecologias - cotidiano sensitivo umbrella
+ * Fabi Borges - metasubcibertrans video - PC or TV needed
+ * Jonathan Kemp - "I was going to propose some small crystal/glass like objects     (artificial fulgurites)made from discharging high voltage over sand and crushed computer processors and/or minerals used in their manufacture
+    they look like this: http://bit.ly/ZDVEva
+ * Gambiologia - ?
+ * Victor Vina - ?
+ * Silia Moan - metatude
+ * Kruno Jošt -  MobileArtLab - http://wiki.noborderculture.eu/doku.php/mal - conenct somehow with http://www.scandiccontainer.fi/index.php?page=kaeytetyt-kontit&hl=fi_FI
+ * Jerneja Bricodos Hackonwall new era of mailing list-networks. printing material from the Bricolabs mailing list; was thinkin of a video interview - reply to this issue. (TV screen needed)
+ * (OTHERS -TO REQUEST- this is part serious/part for fun/~alejo)
+ * Asbesto should send one of his USB keys
+ * Rob should share his mutt config
+ * Vanessa the poporo dynamo lantern and some palo santo fumes.
+ * Vicky and Fabi their video interview in a park somewhere in the elsewheres.
+ * Felipe's printed out on dot-matrix his bookmark collection from 2000 til today. :)
+ * Jean-Noel please some camembert and OSWM scketches
+ * Jean Phillipe, i will like to have the remains of a caddie (al'caddie) wheel after your forensic explorations.
+ * Jaromil, you know how much I appreciate freej, but same goes to TBT so I will like to have any or many of your heartful "rants" presented with it (I could select a couple but hopefully others can also suggest)
+ * James, I do have a logo I made for the Zero Dollar laptop based on the Z from el Zorro and the dollar sign $, did you ever made one?
+ * Tobbias morse-attack board.
+
+VENUE + STRUCTURE
+We're likely getting a couple cargo containers (like these: http://www.scandiccontainer.fi/index.php?page=kaeytetyt-kontit&hl=fi_FI ) to host the exhibition. There must be wooden boxes (perhaps 30 or 40 like these: http://4.bp.blogspot.com/-iV98rMIOrCs/UFqgQAe4v0I/AAAAAAAAGmE/HxRUF5yQdPs/s1600/Helsinki-Plant-tram1-2012.jpg ) available to define areas or other uses. We may be able to paint the boxes if we want to. And there is also a wall for graffitti: http://www.flickr.com/photos/hailten/3898065584/
+
+---------
+
+
+Process of drafting this call
+(ignore from now on - or keep editing)
+
+---
+
+A call for bricothings. Things that embed open/free processes and concepts.
+think of objects as handles that open up a concept / project progress
+grab something and things and concepts unfold
+creative process never ends. but one shows embodiments of various steps and appraoches
+
+Worth reading (from http://piratepad.net/bricolacheshort ):  Bricolabs proposes a critical perspective on the usual north/south  dichotomy, interested and rooted in deep resonant networks where borders  are seldom taken into account. This is as true for geographic  boundaries as it is for disciplinary ones – recently Bricolabs members  have turned their attention to anti-disciplinary collaboration as an  escape from the common traps of western/northern paradigms of  development.
+
+BRICOLAB EXHIBIT
+
+Remote participation
+en more dog barking also frog department intensifies. HAHAHHA -real time frog talking streaming
+22:25 łvan__: hehhehe
+22:26 alejo: on and offline
+What form? Networked? Theme? ??? Databooth? Signals from various corners of the planet? 
+streamed video? (could be a google hangout session) visualisation based on real time and bricoleurs activities inputs (during the duration of the festival)???
+An online symposium? Or just a one stop timezone scratching meeting... not sure if this should be inside the 'exhibit'...(Online symposium probably fits more into conference)
+
+
+Physical things (sent to Helsinki)
+- proposal should include if you cover shipping cost  and if not, what  would it be? (tech raider :))
+- will it pass through customs?
+- how does it contribute to the whole of bricolabs presented at Pixelache?
+- does it need to be sent back, or can it be donated, if so, to whom?Are there new media institutions involved? could be donated to them?
+Could it be an exhibition which the process is part of it?
+ Could be also something quite  small that is distributed to Pixelache participants as part of the  Pixelache event pack (like a badge or a sticker).
+ 
+-Following our own bricomyths, any member can ask any another to sumbit what he/she believes could serve as an example of something that conceils the bricolabs approach (the idea is to have that sort of "conversation" between network participants around _things_ done, be them objects or not, that can be part of an exhibition). From the alcadie wheels from JPhilipe to the Palo Santo or the camembert smell.
+
+Like the idea for the reader, can there also be coupled or connected objects/projects that are presented in a certain way to express shared basis of creation/production/code? Yes, yould be nice to tie this or the conversation proposed by jhon and jerneja that seems not many people have replied so far.
+
+Documentations
+Past projects or future concepts
+formats:
+- 1-2 minute video (tech specs depend on how these are shared)
+- A4 vertical document formatted for one page + links
+
+- CAD file to be printed on plywood with laser cutter, max A4 size
+black boards with text from participants and info if happens workshops and where? could be plywood painted in dark-green..
+
+Site Specific (constructed locally)/audience participation
+- Simple, clear instructions and not a high budget
+- Can be ideas also how to interface objects in space with bricolabs archives (i.e. things which were made as results of brico collaborations)
+- Could be also something quite small that is distributed to Pixelache participants as part of the Pixelache event pack (like a badge or a sticker).
+
+--- msst bamboo antenna --
+
+i'd like to send a bamboo antenna made in the first satelliteless movement meeting. it's 180cm long and 10cm wide. i checked with fedex and they charge 80 dollares for shiping from brazil. sending back is a lot more expensive, though - maybe there are cheaper carriers in finland?
+http://www.flickr.com/photos/fotosdanuvem/6461287957/
+

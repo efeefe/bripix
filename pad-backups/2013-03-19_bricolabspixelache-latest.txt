@@ -1,0 +1,123 @@
+Bricolabs/Pixelache 2013
+
+Collaborative development of a proposal for a Bricolabs programme during Pixelache 2013 (Helsinki/Tallin). This page is a work in progress, feel free to add/edit/delete.
+
+PROPOSAL ACCEPTED! Now planning here: http://piratepad.net/bricolacheplan
+See also: http://piratepad.net/bricolachetext
+
+More about bricolabs: http://bricolabs.net
+
+Submission sent on 05/12/2012:
+
+Name* Felipe Fonseca
+Email* felipefonseca, gmail
+
+Project title
+Bricolabs - multidirectional collaboration
+
+Description
+
+Bricolabs is a fluid network created in 2006 to investigate - from a critical and creative perspective - the loop of free/libre/open content, software and hardware for community applications. Bricolabs promotes open debate on such themes, between people with diverse backgrounds and areas of expertise from Latin America, Europe, Asia and North America (so far). A number of collaborative initiatives emerged based upon Bricolabs' loose connections; others which already existed gained agency through its international ties. Some of its members are key articulators for initiatives such as Dyne.org, Rede MetaReciclagem, Internet of Things Council, House of Natural Fiber, Mdelibre, Access Space, Hackteria and others. Bricolabs was one of the networks gathered in Wintercamp (Amsterdam, 2009) and has given rise to lots of spontaneous meetings in other events.
+
+The nonlinear history of Bricolabs, with its many spin-offs and adhoc cooperations, is a concrete example that collaborative projects can happen in a truly distributed fashion, with no need for a central authority moderating the flows of information.
+
+Our proposal for Pixelache
+
+1) Panels on multidirectional collaboration and free/libre/open technologies. Presentation of specific projects related to these themes. The selection of the projects to be presented will happen in the Bricolabs mailing list (integrated with the overall programme of Pixelache, and with an eye on budget and possible partnerships for funding travel expenses). The panels can take place both in Helsinki and Tallin.
+
+2) Online happening: internet chat and cross-stream between Bricolabs members and groups in different parts of the world. Possible partners are Casa de Cultura Tainã in Campinas, Ubalab in Brazil; Southern Voices in Manchester UK, and plenty of other nodes related to bricolabs.
+
+3) Public interventions/outreach (talks, performances, exhibitions, workshops) dealing with DIY/DIWO culture and technologies based upon free/libre/open circulation of information. Maybe doing something in the ferry between Tallin and Helsinki.
+
+4) A meeting of the Bricolabs network, to further develop collaborative projects and exchange opportunities/knowledge/resources.
+
+Relevant links
+
+http://bricolabs.net
+http://rede.metareciclagem.org
+http://dyne.org
+http://theinternetofthings.eu
+http://oswash.org
+http://bricophone.org
+http://refab-space.org
+http://access-space.org
+http://mdelibre.co/
+http://www.mocambos.net/
+
+From Pixelache website:
+
+http://www.pixelache.ac/helsinki/festival-2013/
+
+"Pixelache festival 2013 is entitled ‘Facing North – Facing South’ and  is  organized as a dual-city event, both in Helsinki and Tallinn  during   16-19 May 2013. If every North as its South and every South its North,   this is an invitation to alternately face North and South from multiple points of views."
+
+"We  are looking for organisations, groups or individuals who would like  to  organise a seminar and an exhibition for the Facing North – Facing   South programme of Pixelache in Helsinki in 2013. We are hoping the   Facing North – Facing South programme will bring interesting insights   and points of views to the question of North-South relationships."
+
+Some members of Bricolabs (an inevitably incomplete list)
+
+* Felipe Fonseca
+* Rob van Kranenburg
+* Bronac Ferran
+* Jaromil Rojo
+* Matt Ratto
+* Venzha Christ
+* Jerneja Rebernak 
+* Marcelo Delcampo
+* Vicky Sinclair
+* Ian Lawrence
+* Atteqa Malik
+* Jean-Noel Montagne
+* Alejo Duque
+* Philippe Langlois
+* Vincenzo Tozzi
+* John Hopkins (remote participant)
+* Vanessa Gocksch
+* Yto Aranda
+* Tapio Makela (attending in Helsinki and Tallinn)
+* Patrice Riemens
+* Armin Medosch
+* Marc Farra/ Mayak Keidieh (LambaLabs Hackerspace Beirut, Lebanon)
+* Leandro Pisano
+* Kasia Molga
+* Brian Degger
+* Maira Begalli 
+* VJ pixel 
+* James Wallbank
+* Paula Vélez
+. Ivan Henriques
+
+Drafts
+
+Rise of decentralized communities, which enable forms of knowledge   transference which is based on deterritorialization /Lab   environments/virtual spaces for collaboration, do open a vast area of  an  almost ideological struggle, which dictate this necessity, thus of  an  irreversible need for open structures. 
+
+Collaborative  environments where meetings are virtual and based on peer-to-peer   connectivity are the only means to negotiate common frameworks on   developing relations, projects and networked infrastructure. 
+
+
+seeing  Bricolabs as network infrastructure, the need to create/propose  third-ways, when it comes to education,  arises almost as an emergency,  otherwise we are at risk of considering  the paradoxical relationship  between study and labor as normal .
+
+In  fact being a professional artist is one of the most blatant examples,   whether the training is technical or academic most artists can’t easily find themselves a position, and that’s is simply art itself does not   have a defined role in –productive- society, driving emergent artist to  a  practice that tends to reach benefits from cultural policies or  simply  must occupy the grey-areas in other fields –formal education-  before  succumbing to the creative industry.
+
+Is  not chance that informal education has become a more common practice   in order to overcome such deficiencies, but is also true that possible   gains in quality and relevance resulting from such programs loose their   power due lack of validation and its subsequent non representativeness   in the labor-market; there should be a revalidation of a transmission  model  based on non-profitable exchange of knowledge  (after all this is  the  way we used to learn for ages before religious and capital  restrictions).
+
+
+Thematicconstellation of working groups where decentralized collaborative environments is being enabled this time thru a f2f process/production 
+
+Keywords
+
+deep resonant networks
+anti-disciplinary collaboration
+
+*Networked infrastructures/platforms
+*Art/Rurality/New media/ 
+*diwo Biology 
+
+Victoria Sinclair, in the bricolabs mailing list:
+
+"i agree...it seems timely to have a f2f...and if our previous  discussions and musings stand true, imperative for the sustainability of  the network
+
+this year, and sorry to generalise, but i think it is people being  in the mode of wanting to solidify their mission in preparation for the  end of one age...
+we (and many other networks) have not met  much...and 2013 really gives a sense of some significant journeys back  to meet and relay messages with a few interesting presents and stories  no doubt and many long discussions into the next mornings!
+
+i know how valuable it was for me and my sense of orientedness  within the network and in the related works to be at wintercamp a few  years ago. i know that communities are really needing our  multidisciplinary approaches and hope that next year we all get back on  the ground to develop the systems we were looking at, for distributed  systems of co-creating, knowledge sharing, p2p education....and  certainly there are several networks here in central america who are  keen to engage with the bricos when they have dealt with the end of the  world stuff in a few weeks!
+
+so - i am not sure where i will be but am fully committed to being  there in some way and really think it is not just needed for bricolandia  but for the many nodes we represent and communicate with...."
+
