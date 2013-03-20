@@ -1,0 +1,283 @@
+Conversation with #bricolabs at Qua 20 Mar 2013 17:07:49 BRT on efeefe@irc.freenode.org (irc)
+(17:07:49) #bricolabs: O tópico do #bricolabs é: Bricolabs welcomes you | www.bricolabs.net
+(17:13:20) efeefe: alo pueblos
+(17:13:46) kasiamolga: Hi Everybody!
+(17:14:14) efeefe: Usuários em #bricolabs: efeefe kasiamolga _ivan b3free hybrid kiilo lalenia
+(17:14:30) efeefe: lots of things to decide as quick as we can
+(17:14:43) _ivan: opa
+(17:14:56) efeefe: there should be more people here, but some already said they are not abailable
+(17:14:59) efeefe: v
+(17:15:12) _ivan: ok
+(17:15:25) efeefe: will you be free in an hout?
+(17:15:26) efeefe: hour
+(17:15:37) hybrid: i'll be reading afaiCan
+(17:15:38) efeefe: maybe we could start the more serious part then
+(17:15:53) _ivan: i am here
+(17:15:55) efeefe: hybrid: tu viu a chamada de bricocoisas?
+(17:15:58) kasiamolga: me too
+(17:16:00) kasiamolga: am here
+(17:16:06) efeefe: http://pixelache.muistio.tieke.fi/bricolabs-exhibit-pt
+(17:16:11) lalenia: <http://ln-s.net/+rcH> (at pixelache.muistio.tieke.fi)
+(17:16:27) efeefe: hybrid: e a chamada pela "tua metareciclagem" http://mutgamb.org/form/Tua-MetaReciclagem
+(17:16:29) efeefe: ?
+(17:16:30) lalenia: Title: Tua MetaReciclagem | Mutirão da Gambiarra (at mutgamb.org)
+(17:17:24) efeefe: b3free: u there?
+(17:18:23) automata [~automata@nebulosa.ifsc.usp.br] entrou na sala.
+(17:24:40) efeefe: alo automata
+(17:30:35) kasiamolga: ok - I am gonna make myself a cup of tea while we are waiting for more :)
+(17:31:29) efeefe: fair enough
+(17:32:58) b3free: opa
+(17:33:52) automata: efeefe, opa
+(17:34:08) automata: b3free, uepa
+(17:35:04) efeefe: b3free: vicky is organising the remote sessions for bricolabs/pixelache
+(17:35:18) efeefe: http://pixelache.muistio.tieke.fi/bricolabs-remote
+(17:35:23) lalenia: <http://ln-s.net/+rcf> (at pixelache.muistio.tieke.fi)
+(17:35:28) efeefe: are you up to organise something in Taina?
+(17:35:32) efeefe: when is the mocambos meeting?
+(17:38:25) angelina [b1075933@gateway/web/freenode/ip.177.7.89.51] entrou na sala.
+(17:49:36) efeefe: gonna buy some bread to Isadora, be back in 10 min.
+(17:54:24) brv1 [~bru@189-25-195-59.user.veloxzone.com.br] entrou na sala.
+(17:54:38) brv1 saiu da sala.
+(17:54:50) brv1 [~bru@189-25-195-59.user.veloxzone.com.br] entrou na sala.
+(17:55:23) brv1: presente
+(18:04:49) brv1: hola
+(18:06:26) jerneja [563a517d@gateway/web/freenode/ip.86.58.81.125] entrou na sala.
+(18:11:56) efeefe: hey all
+(18:12:10) efeefe: I don't know if you noticed, we've changed pads
+(18:12:10) efeefe: http://pixelache.muistio.tieke.fi/bricolabs?
+(18:12:16) efeefe: piratepad was becoming too unstable
+(18:13:05) efeefe: I've been trying to edit this one for two days, always drops http://piratepad.net/bricolabexhibit
+(18:13:08) lalenia: Title: PiratePad: bricolabexhibit (at piratepad.net)
+(18:13:22) efeefe: new ones are supposedly better
+(18:13:23) b3free: the event is in may?
+(18:13:54) b3free: remote also?
+(18:13:56) b3free: date?
+(18:13:58) efeefe: 17th of may
+(18:14:14) b3free: we are rescheduling the mocambos national meeting on may
+(18:14:39) b3free: maybe in the beginning
+(18:14:40) _ivan: hey felipe
+(18:15:05) _ivan: i sent to your email the final proposal me and kasia wrote for the exhibition and workshop
+(18:19:59) jerneja: hello. yes efeefe seen the pad
+(18:20:38) brv1: hey hey
+(18:23:42) efeefe: ei bruno
+(18:23:54) efeefe: any alternatives to sending theantenna?
+(18:24:06) efeefe: fedex sounds pretty expensive to return it to br
+(18:24:25) efeefe: I asked  Ulla about it, but don't think there will be any cheaper options
+(18:24:38) angelina saiu da sala (quit: Ping timeout: 245 seconds).
+(18:28:23) brv1: uh
+(18:28:39) brv1: hmmm
+(18:28:54) efeefe: one alternative would be sending in documentation about it
+(18:28:59) brv1: yes there any finn here?
+(18:29:02) brv1: is there
+(18:29:06) brv1: *
+(18:29:24) brv1: i wanted to check the finnish post office
+(18:29:26) efeefe: and perhaps we could find something finnish bamboo and emulate a copy of it
+(18:29:33) efeefe: all about sharing the source
+(18:29:44) brv1: yes of course
+(18:29:48) efeefe: right now there is none here
+(18:29:50) brv1: i could just leave it there too
+(18:30:11) brv1: i think the moss is a real nice touch
+(18:30:40) efeefe: IF pedro bayeux gets the minc funding and IF he leaves right after pixelache, we might be able to ask him to bring it back
+(18:30:43) brv1: and it's gonna fade in a few days there
+(18:31:17) brv1: yeah i could leave it there. AND send the instructions of course
+(18:31:30) brv1: i mean, to share the source
+(18:32:30) brv1: would that work?
+(18:35:28) _ivan saiu da sala (quit: Ping timeout: 245 seconds).
+(18:38:31) _ivan [b17599a9@gateway/web/freenode/ip.177.117.153.169] entrou na sala.
+(18:41:45) efeefe: brv1: I don't know about leaving it there
+(18:41:59) efeefe: what would "there" mean
+(18:42:09) brv1: a garbage can?
+(18:42:17) brv1: hey it's 50% recyclabe
+(18:42:32) brv1: actually 50% recycleable and 50% compost
+(18:42:38) brv1: hehe
+(18:43:16) efeefe: sounds like a planm
+(18:43:55) efeefe: what was the price mesmo?
+(18:44:13) brv1: acho que 80 doletas
+(18:48:20) b3free saiu da sala (quit: Quit: Leaving.).
+(18:49:30) efeefe: brv1: massa, I think it works
+(18:53:00) efeefe: anyway, _ivan, jerneja, kasiamolga you re stiull there?
+(18:53:01) brv1: pensando aqui acho que não seria justo com o msst mandar a antena original
+(18:53:15) jerneja: si si
+(18:53:16) brv1: mas vou achar um bambu com uma cara boa e fazer outra
+(18:53:22) _ivan: here
+(18:53:36) jerneja: just getting really tired, was sick these past days
+(18:54:02) _ivan: i have to leave in 30 min
+(18:54:59) efeefe: brv1: decide aih. I think we can afford the 80 EUR to send it, not the 3x more to return.
+(18:55:17) brv1: sim sim, vou mandar uma replica
+(18:55:23) brv1: autêntica!
+(18:55:24) efeefe: first thing of the day: plans for the conference should be ready asap
+(18:56:06) efeefe: we have plans for some panels + remote sessions ("frenetic little labs")
+(18:56:08) efeefe: http://pixelache.muistio.tieke.fi/bricolabs-conf
+(18:56:13) lalenia: <http://ln-s.net/+reB> (at pixelache.muistio.tieke.fi)
+(18:56:36) efeefe: I've shrunk the time slots of the panels to fit the day
+(18:57:16) efeefe: we should decide if those are the final panels
+(18:57:28) efeefe: and if the time is enough for each
+(18:57:40) efeefe: also, the first one needs a moderator
+(18:58:29) efeefe: maybe it could be moderated by John and "deep resonant networking" become the subtheme or even main theme of the panel itself
+(18:58:49) brv1: ei pelo correio custa 80 pra mandar de volta
+(18:58:52) efeefe: then we would have three panels of our own and one guest panel
+(18:58:53) brv1: 80 euros
+(18:58:58) brv1: enfim
+(18:59:08) efeefe: brv1:  ah, nao tao ruim quanto tu tinha visto antes
+(19:00:06) efeefe: brv1: via finnish postal service?
+(19:00:17) jerneja: i think the schedule is good. thinking coffee can be somehow extended in the afternoon as there is a remote session...people are free to mingle if they like..and then continue to remote?
+(19:00:54) kasiamolga: Hi - sorry - here
+(19:01:04) jerneja: so it can pointed out, but everyone is just free to get one, come back, no need to break out the remote session, as I believe it will continue for two hours
+(19:01:15) jerneja: what do you think?
+(19:01:50) brv1: yes finnish posti info@ob-art.com
+(19:01:53) brv1: ops sorry
+(19:02:02) brv1: http://www.posti.fi/english/pricesandinstructions/
+(19:02:06) lalenia: <http://ln-s.net/+reK> (at www.posti.fi)
+(19:04:30) efeefe: jerneja: I think if our choice is to do the seminar in happi, going from panel to frenetic will be very organic
+(19:04:54) efeefe: that's something we should decide right now as well
+(19:04:57) efeefe: http://pixelache.muistio.tieke.fi/bricolabs-venues
+(19:05:01) lalenia: <http://ln-s.net/+reP> (at pixelache.muistio.tieke.fi)
+(19:05:07) jerneja: yep.good then
+(19:05:29) efeefe: I like the idea of concentrating on happi
+(19:05:29) efeefe: http://happi.nettiareena.fi/
+(19:05:41) jerneja: yes seems a good place
+(19:05:55) efeefe: feels more brico than theothers
+(19:09:03) _ivan: efeefe, do you know if the conteiners can open the sides as well? for the exhibition
+(19:09:23) efeefe: jerneja: what do you think about making john the moderator of the first panel?
+(19:09:23) jerneja: so concerning honf from indonesia, Ira is sending dates when she is in berlin and will let us know if she is coming
+(19:09:35) efeefe: jerneja: nice, let me know.
+(19:09:44) efeefe: _ivan: it depends on the containers we're taking
+(19:09:47) jerneja: i like to think of giving him a task..nt sure about what he thinks though
+(19:10:06) efeefe: the ones we're currently estimating are the most basic ones
+(19:10:10) _ivan: i clicke don the link in the doc
+(19:10:10) jerneja: just you remember he will be coming a bit exhausted.
+(19:10:14) _ivan: clicked
+(19:10:42) efeefe: not only because they're cheaper, but because I thought it would make more sense to work with containers as close to 'real' cargo containers as possible
+(19:10:49) efeefe: there are ones with transparent side doors
+(19:10:59) _ivan: http://www.scandiccontainer.fi/index.php?page=kaeytetyt-kontit&hl=fi_FI
+(19:11:00) lalenia: <http://ln-s.net/+mRf> (at www.scandiccontainer.fi)
+(19:11:21) efeefe: but there's all the discussion about brico, reusing equipment, etc.
+(19:11:37) efeefe: so, a container made specially for an exhibition seemed a little odd
+(19:11:49) _ivan: yes, but would be nice if we could join two of them and make a bigger room for the exhibition
+(19:11:50) efeefe: but I might be wrong and am usually ieasily convinved 
+(19:12:47) efeefe: _ivan: current plans are about getting three basic containers
+(19:12:59) efeefe: the first one on that page
+(19:14:12) _ivan: ok
+(19:15:17) efeefe: we can join two of them indeed
+(19:15:20) _ivan: i saw this one and i thought it could open on the side as well
+(19:15:27) _ivan: looks great
+(19:15:34) _ivan: =)
+(19:15:51) efeefe: we can decide to get ones which open on the side
+(19:15:57) jerneja: we don't have much time to get things organized, as exhibition opening is on 15th already??? will the pixelache team help with set up?
+(19:16:09) efeefe: there are woodenboxes as wll
+(19:16:17) jerneja: I mean *organized...
+(19:16:17) _ivan: great
+(19:16:35) efeefe: jerneja: it depends on what you mean with "help" ;)
+(19:16:38) jerneja: prepared..the things sent...perhaps would be good to get pictures of them while they reach finland
+(19:16:48) jerneja: sorry, let me rephrase
+(19:17:17) efeefe: I will be in Finland around 20th of april to see things more closely
+(19:17:32) efeefe: and some of us can arrive early to pixelache to set things up
+(19:17:43) efeefe: I'm checking whether Alejo would be able to go
+(19:17:50) jerneja: bricos are sending things to finland, to get a clear idea of the things sent, and then think of the exhibition display...
+(19:18:14) jerneja: yes would be good to have set up help at the venue
+(19:18:30) efeefe: _ivan, kasiamolga, I've just seen your email. the dates you mention are 10th and 11th... I though kasiamolga would be in venice by then
+(19:18:44) efeefe: also, 10 and 11 are not thurs/fri, but fri/sat
+(19:19:03) _ivan: sorry bout the dates
+(19:19:11) efeefe: jerneja: we should have an idea of what is being sent via the pad
+(19:19:26) _ivan: it is wrong
+(19:19:28) efeefe: some said they will send things and didn't explain, but I don't think that's a problem
+(19:21:10) kasiamolga: Hi guys - sorry - i thought the meeting was happening from 8 pm till 9 pm - so that was my assigned time for it - am here but am dealing with other things too (which I was supposed to from 9 p.m.) :)
+(19:21:25) kasiamolga: the dates - our mistake - sorry
+(19:21:41) kasiamolga: we are aware that we need to be there by 14th the latest
+(19:21:58) efeefe: oops, battery on 7% - gonna get the AC
+(19:22:12) jerneja: yes, it's just a little hard to imagine it. are you thinking of a lab set up? no i imagine. but in terms of configuration within space, on a practical level. perhaps some things need little transparent boxes to give them some attention...like wooden usb  - you know what i mean
+(19:22:15) _ivan: yes
+(19:22:26) _ivan: i could be going from the 13th
+(19:23:07) kasiamolga: AAAH! the dates!
+(19:23:21) kasiamolga: the dates were put there not by us but by Nathalie
+(19:23:38) efeefe: how come?
+(19:23:39) kasiamolga: we need to check with here if indeed those are dates of the workshops or she made a mistake
+(19:24:27) kasiamolga: well - this doc is shared with Nathalie - she needed that for a newsletter and some other stuff - but no - we never confirmed dates with her regarding a workshop
+(19:24:48) kasiamolga: in fact we were a bit puzzled because we never heard anything about scheduling them...
+(19:24:55) kasiamolga: I will write to her straigh away
+(19:25:36) efeefe: ok
+(19:28:01) efeefe: ok, I don't know much about that then
+(19:28:04) _ivan: efeefe, didnt get ur email
+(19:28:12) efeefe: I didn't send any
+(19:28:17) kasiamolga: yes - well - am a bit puzzled too
+(19:31:16) efeefe: then: about the conference we should work a bit more on texts,  panel descriptions and bios
+(19:31:48) efeefe: bronac said she's willing to help with texts, structuring talks/panels, etc. that will come in good time.
+(19:32:31) efeefe: I also think the remote sessions will work either way. we should think about their set up in helsinki. hopefully Alejo will be around and have ideas for that.
+(19:32:32) _ivan: ok
+(19:32:59) efeefe: we should specify requirements for panels/frenetic lab
+(19:33:15) efeefe: whether we will need beamers, etc.
+(19:34:48) efeefe: jerneja: any news on the reader?
+(19:35:27) jerneja: i have engaged some people in writing mode...talked one on one...
+(19:36:20) jerneja: other than that waiting for texts still. but i think realistically will be getting them in a month time..as we are editing after pixelache. and one on one works better, it just needs pushing
+(19:36:21) efeefe: good
+(19:37:14) jerneja: and will be in sicily, asking asbesto for a contribution as well.
+(19:37:46) jerneja: notes...cases...
+(19:37:58) efeefe: nice, good opportunity to get one of his wooden usb drives for the exhibition
+(19:38:11) jerneja: exactly, did you get what i was asking earlier?
+(19:38:32) efeefe: hm, not sure
+(19:38:34) jerneja: i was talking about  display
+(19:38:50) efeefe: the hackonwall?
+(19:38:51) jerneja: how to position this small objects, somehow also 'secure' them a little bit
+(19:39:05) jerneja: no...like the usb, or 'things'
+(19:39:19) efeefe: ok
+(19:39:27) efeefe: here are some ideas of things: ideas are being 
+(19:39:29) efeefe: lkjdf
+(19:39:30) efeefe: http://pixelache.muistio.tieke.fi/bricolabs-exhibit
+(19:39:38) lalenia: <http://ln-s.net/+rfE> (at pixelache.muistio.tieke.fi)
+(19:39:53) efeefe: should we come up with safe boxes for the objects?
+(19:41:30) efeefe: I was thinking (and actually suggested there) that one part of the exhibition should be posters about brico-themes
+(19:41:34) efeefe: or subprojects
+(19:41:36) efeefe: or both
+(19:41:37) jerneja: could also be recycled safe nets, not necessarly boxes...just as these are poweful objects, but in the exhibition, should allow them to be friendly to audience, not to display as untouchable..but still the question is on keeping them in the space...
+(19:42:11) jerneja: i like this idea...posters - a good question is printing faciltiy in helsinki for example,.if you want to send files
+(19:42:55) jerneja: also about this printing issue with mailing list, the thing I can only be there on 15 as i am in linz two days before helsinki
+(19:43:49) jerneja: do we have one day then, 15 at night to work?
+(19:43:52) efeefe: jerneja: we can ask someone else to print them
+(19:44:09) efeefe: the exhibition is supposed to open on 15th
+(19:44:10) jerneja: ah yes, if possible it would then save us a great deal of time...
+(19:44:18) jerneja: ah, so i imagined. yes
+(19:44:55) _ivan: how long the exhibition will take
+(19:45:02) _ivan: from 15 until 17?
+(19:45:25) jerneja: question efeefe: how are walls in the space we will use, or are containters we can do anything. because one containter can have only mailing list docs pasted over them...
+(19:45:55) efeefe: _ivan: I'll ask nathalie about it
+(19:46:32) jerneja: so question for you when you get there, think of where to paste the paper we want to print.
+(19:46:34) _ivan: cool]
+(19:46:42) efeefe: jerneja: do you mean, you want to use not only the container walls but also the ones in happi?
+(19:46:57) _ivan: and the workshop dates as well..
+(19:47:04) _ivan: thanks!
+(19:47:12) efeefe: jerneja: it can easily become a lot of paper, right?
+(19:47:21) jerneja: I will start making files so i need a contact person there i can rely on for sending the files to print - i cannot imagine nathalie will be doing it
+(19:47:31) efeefe: _ivan: afaik, workshops are being scheduled for during camp pixelache
+(19:48:06) efeefe: jerneja: we need to have someone focusing more on the exhibition
+(19:48:11) efeefe: I'm asking alejo to come closer
+(19:48:29) efeefe: also, I want to involve Kruno
+(19:48:55) jerneja: maybe I am too tired to remember, but for the exhibition which spaces are there now...if containers, then that is fine enough, instructions shall be send, glue+paper, but someone should be doing it physically. yes good to get kruno involved, he is mounting an exhibition now in zagreb and is super busy
+(19:49:54) efeefe: for the exhibitions, we're planning to have 2 o3 3 containers
+(19:50:16) jerneja:  skype conference on this topic perhaps, if you like. we should get confirmations of things sent
+(19:50:18) efeefe: jerneja: I heard, will try to talk to him once the thing in Zagreb is finished
+(19:50:41) jerneja: yep...goody
+(19:51:17) efeefe: but anyway,  I think priority for the exhibition is deciding upon the containers, and making adherent to the whole brico programme and the general pixelache themes
+(19:51:56) efeefe: the rest is exactly that: organising things, writing descriptions, glueing or piling up stuff ;)
+(19:52:15) efeefe: I think that can be decided after my visit
+(19:52:24) efeefe: as long as we found someone to be responsible for it
+(19:52:39) jerneja: so hitting midnight here, application time tomorrow. let's talk more this week sometime
+(19:52:46) jerneja: yes agree
+(19:54:06) efeefe: jerneja: I'll be online tomorrow. 
+(19:54:36) efeefe: jerneja: I think the posters for the exhibition can draw from the reader investigation
+(19:54:49) efeefe: keep that in mind when you're thinking about it
+(19:55:06) efeefe: I'll ask for your help on that in the second half of april
+(19:55:20) jerneja: will do! lahko noc, good night
+(19:57:56) efeefe: boa
+(19:58:56) jerneja saiu da sala (quit: Quit: Page closed).
+(20:05:41) _ivan: vou nessa tb
+(20:05:46) efeefe: beleza, iva
+(20:05:49) _ivan: tenho que terminar umas coisas aqui
+(20:05:58) efeefe: vou ver direito o teu email e descobrir com a nathalie essas coisas
+(20:05:59) _ivan: até
+(20:06:02) efeefe: abracao
+(20:07:41) efeefe: ok, closing for today. will keep on working especially on the conference and exhibition this week. 
+(20:08:08) efeefe: after the 28th of march, I will be pretty much offline until the 15th of april.
+(20:10:14) efeefe: ok then - will push this log to the git repo
+(20:10:27) efeefe: https://github.com/efeefe/bripix
+(20:10:28) _ivan saiu da sala (quit: Ping timeout: 245 seconds).
+(20:10:29) lalenia: Title: efeefe/bripix · GitHub (at github.com)
